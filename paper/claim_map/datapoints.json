@@ -1,0 +1,320 @@
+{
+ "schema": "datapoints-v2-monitor",
+ "generated": "2026-10-26",
+ "paper": "paper/draft.tex",
+ "count": 29,
+ "datapoints": [
+  {
+   "id": "DP-E3-1",
+   "claim": "DVR total tokens for 100 interactions",
+   "source": "experiments/results/raw/e3_counts.json",
+   "path": [
+    "dvr",
+    "T_total"
+   ],
+   "expect": 4732,
+   "marker": "4{,}732"
+  },
+  {
+   "id": "DP-E3-2",
+   "claim": "REGEN total tokens for 100 interactions",
+   "source": "experiments/results/raw/e3_counts.json",
+   "path": [
+    "regen",
+    "T_total"
+   ],
+   "expect": 639300,
+   "marker": "639{,}300"
+  },
+  {
+   "id": "DP-E3-3",
+   "claim": "cost ratio REGEN/DVR",
+   "source": "experiments/results/raw/e3_counts.json",
+   "path": [
+    "ratio"
+   ],
+   "expect": 135.1,
+   "marker": "135$\\times$"
+  },
+  {
+   "id": "DP-E3-4",
+   "claim": "breakeven interactions",
+   "source": "experiments/results/raw/e3_counts.json",
+   "path": [
+    "breakeven_interactions"
+   ],
+   "expect": 0.74,
+   "marker": "0.74"
+  },
+  {
+   "id": "DP-E3-5",
+   "claim": "REGEN per-interaction tokens",
+   "source": "experiments/results/raw/e3_counts.json",
+   "path": [
+    "regen",
+    "T_per_interaction"
+   ],
+   "expect": 6393,
+   "marker": "6{,}393"
+  },
+  {
+   "id": "DP-E3-6",
+   "claim": "interaction count K",
+   "source": "experiments/results/raw/e3_counts.json",
+   "path": [
+    "interactions_k"
+   ],
+   "expect": 100,
+   "marker": "100 interactions"
+  },
+  {
+   "id": "DP-E1-1",
+   "claim": "E1 edited record prior value",
+   "source": "experiments/results/raw/e1_trace.jsonl",
+   "path": [
+    "step:1_user_edit",
+    "prior"
+   ],
+   "expect": 820.89,
+   "marker": "820.89"
+  },
+  {
+   "id": "DP-E1-2",
+   "claim": "E1 edited record new value",
+   "source": "experiments/results/raw/e1_trace.jsonl",
+   "path": [
+    "step:1_user_edit",
+    "new"
+   ],
+   "expect": 1320.89,
+   "marker": "1{,}320.89"
+  },
+  {
+   "id": "DP-E1-3",
+   "claim": "E1 invalidated binding count",
+   "source": "experiments/results/raw/e1_trace.jsonl",
+   "path": [
+    "step:2_writeback_invalidation",
+    "invalidated"
+   ],
+   "expect": 4,
+   "marker": "four\ndependent bindings"
+  },
+  {
+   "id": "DP-E1-4",
+   "claim": "E1 durability verdict",
+   "source": "experiments/results/raw/e1_trace.jsonl",
+   "path": [
+    "step:4_verdict",
+    "c6_durability_closed"
+   ],
+   "expect": true,
+   "marker": "open claim is closed"
+  },
+  {
+   "id": "DP-E2-1",
+   "claim": "E2 edit count",
+   "source": "experiments/results/raw/e2_edits.jsonl",
+   "path": [
+    "count"
+   ],
+   "expect": 100,
+   "marker": "100/100"
+  },
+  {
+   "id": "DP-E2-2",
+   "claim": "E2 re-proved count",
+   "source": "experiments/results/raw/e2_edits.jsonl",
+   "path": [
+    "ok_count"
+   ],
+   "expect": 100,
+   "marker": "100\\% round-trip"
+  },
+  {
+   "id": "DP-E2-3",
+   "claim": "E2 wall time s",
+   "source": "experiments/results/raw/e2_meta.json",
+   "path": [
+    "wall_s"
+   ],
+   "expect": 1.04,
+   "marker": "1.0\\,s wall time"
+  },
+  {
+   "id": "DP-COR-1",
+   "claim": "corpus record count",
+   "source": "experiments/corpus/datasets/expenses/data.jsonl",
+   "path": [
+    "count"
+   ],
+   "expect": 63,
+   "marker": "63\nrecords"
+  },
+  {
+   "id": "DP-L4-0",
+   "claim": "render seconds at 10 nodes",
+   "source": "view-renderer/limits_results.json",
+   "path": [
+    "L4_scale",
+    "curve",
+    "0",
+    "render_s"
+   ],
+   "expect": 0.002,
+   "marker": "0.03\\,s at 100"
+  },
+  {
+   "id": "DP-L4-1",
+   "claim": "render seconds at 100 nodes",
+   "source": "view-renderer/limits_results.json",
+   "path": [
+    "L4_scale",
+    "curve",
+    "1",
+    "render_s"
+   ],
+   "expect": 0.027,
+   "marker": "0.03\\,s at 100"
+  },
+  {
+   "id": "DP-L4-2",
+   "claim": "render seconds at 1000 nodes",
+   "source": "view-renderer/limits_results.json",
+   "path": [
+    "L4_scale",
+    "curve",
+    "2",
+    "render_s"
+   ],
+   "expect": 2.469,
+   "marker": "2.5\\,s at 1{,}000"
+  },
+  {
+   "id": "DP-L4-3",
+   "claim": "render seconds at 10000 nodes",
+   "source": "view-renderer/limits_results.json",
+   "path": [
+    "L4_scale",
+    "curve",
+    "3",
+    "render_s"
+   ],
+   "expect": 122.545,
+   "marker": "123\\,s at\n10{,}000"
+  },
+  {
+   "id": "DP-L3-1",
+   "claim": "L3 shared-error fabrication caught?",
+   "source": "view-renderer/limits_results.json",
+   "path": [
+    "L3_shared_error",
+    "caught"
+   ],
+   "expect": false,
+   "marker": "does not and cannot\ncatch"
+  },
+  {
+   "id": "DP-L5-1",
+   "claim": "L5 concurrency consistent",
+   "source": "view-renderer/limits_results.json",
+   "path": [
+    "L5_concurrency",
+    "consistent"
+   ],
+   "expect": true,
+   "marker": "last-writer-wins"
+  },
+  {
+   "id": "DP-L7-1",
+   "claim": "L7 coverage honesty",
+   "source": "view-renderer/limits_results.json",
+   "path": [
+    "L7_coverage_honesty",
+    "pass"
+   ],
+   "expect": true,
+   "marker": "33\\%"
+  },
+  {
+   "id": "DP-L6-1",
+   "claim": "L6 requests attempted",
+   "source": "experiments/results/raw/l6.json",
+   "path": [
+    "requests"
+   ],
+   "expect": 6,
+   "marker": "six shell-relevant"
+  },
+  {
+   "id": "DP-L6-2",
+   "claim": "L6 expressible count",
+   "source": "experiments/results/raw/l6.json",
+   "path": [
+    "expressible"
+   ],
+   "expect": 4,
+   "marker": "4 of 6"
+  },
+  {
+   "id": "DP-L6-3",
+   "claim": "L6 expressible rate",
+   "source": "experiments/results/raw/l6.json",
+   "path": [
+    "rate"
+   ],
+   "expect": 0.6667,
+   "marker": "66.7\\%"
+  },
+  {
+   "id": "DP-LOC-1",
+   "claim": "prototype non-comment LOC",
+   "source": "view-renderer/dvr/*.py",
+   "path": [
+    "non_comment_loc"
+   ],
+   "expect": 279,
+   "marker": "$\\sim$300 LOC"
+  },
+  {
+   "id": "DP-REV-1",
+   "claim": "review identified records",
+   "source": "litreview/raw/[openalex+arxiv].json",
+   "path": [
+    "count"
+   ],
+   "expect": 797,
+   "marker": "797 records"
+  },
+  {
+   "id": "DP-REV-2",
+   "claim": "review deduplicated records",
+   "source": "litreview/raw/combined.json",
+   "path": [
+    "count"
+   ],
+   "expect": 749,
+   "marker": "749"
+  },
+  {
+   "id": "DP-REV-3",
+   "claim": "review screened records",
+   "source": "litreview/screen.py",
+   "path": [
+    "kept"
+   ],
+   "expect": 110,
+   "marker": "110 screened"
+  },
+  {
+   "id": "DP-REV-4",
+   "claim": "review included works",
+   "source": "litreview/raw/included_verified.json",
+   "path": [
+    "count"
+   ],
+   "expect": 42,
+   "marker": "42 synthesised"
+  }
+ ]
+}

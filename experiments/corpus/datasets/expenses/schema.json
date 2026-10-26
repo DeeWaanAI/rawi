@@ -1,0 +1,18 @@
+{
+  "dataset": "expenses",
+  "id_field": "id",
+  "fields": {
+    "id": "id",
+    "date": "timestamp",
+    "period": "enum[Q1,Q2,Q3]",
+    "amount": "number",
+    "category": "enum[travel,food,tools,other]"
+  },
+  "derivations": [
+    "sum",
+    "avg",
+    "count",
+    "min",
+    "max"
+  ]
+}

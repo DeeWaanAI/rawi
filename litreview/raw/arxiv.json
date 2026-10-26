@@ -1,0 +1,1760 @@
+[
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "SGL: A Structured Graphics Language",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2505.14690v3",
+  "cited_by": null,
+  "abstract": "This paper introduces SGL, a graphics language that is aesthetically similar to SQL. As a graphical counterpart to SQL, SGL enables specification of statistical graphics within SQL query interfaces. SGL is based on a grammar of graphics that has been customized to support a SQL aesthetic. This paper presents the fundamental components of the SGL language alongside examples, and describes SGL's underlying grammar of graphics via comparison to its closest predecessor, the layered grammar of graphics.",
+  "authors": [
+   "Jon Chapman"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "Tactile Vega-Lite: Rapidly Prototyping Tactile Charts with Smart Defaults",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2503.00149v2",
+  "cited_by": null,
+  "abstract": "Tactile charts are essential for conveying data to blind and low vision (BLV) readers but are difficult for designers to construct. Non-expert designers face barriers to entry due to complex guidelines, while experts struggle with fragmented and time-consuming workflows that involve extensive customization. Inspired by formative interviews with expert tactile graphics designers, we created Tactile Vega-Lite (TVL): an extension of Vega-Lite that offers tactile-specific abstractions and synthesizes existing guidelines into a series of smart defaults. Predefined stylistic choices enable non-exper",
+  "authors": [
+   "Mengzhu Katie Chen",
+   "Isabella Pedraza Pineros",
+   "Arvind Satyanarayan",
+   "Jonathan Zong"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "Animated Vega-Lite: Unifying Animation with a Grammar of Interactive Graphics",
+  "year": 2022,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2208.03869v2",
+  "cited_by": null,
+  "abstract": "We present Animated Vega-Lite, a set of extensions to Vega-Lite that model animated visualizations as time-varying data queries. In contrast to alternate approaches for specifying animated visualizations, which prize a highly expressive design space, Animated Vega-Lite prioritizes unifying animation with the language's existing abstractions for static and interactive visualizations to enable authors to smoothly move between or combine these modalities. Thus, to compose animation with static visualizations, we represent time as an encoding channel. Time encodings map a data field to animation k",
+  "authors": [
+   "Jonathan Zong",
+   "Josh Pollock",
+   "Dylan Wootton",
+   "Arvind Satyanarayan"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "rtables -- A Framework For Creating Complex Structured Reporting Tables Via Multi-Level Faceted Computations",
+  "year": 2023,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2306.16610v1",
+  "cited_by": null,
+  "abstract": "Tables form a central component in both exploratory data analysis and formal reporting procedures across many industries. These tables are often complex in their conceptual structure and in the computations that generate their individual cell values. We introduce both a conceptual framework and a reference implementation for declaring, generating, rendering and modeling such tables. We place tables within the existing grammar of graphics paradigm for general statistical visualizations. Our open source `rtables` software implementation utilizes these connections to facilitate an intuitive way t",
+  "authors": [
+   "Gabriel Becker",
+   "Adrian Waddell"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "Legible Label Layout for Data Visualization, Algorithm and Integration into Vega-Lite",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2405.10953v2",
+  "cited_by": null,
+  "abstract": "Legible labels should not overlap with other labels and other marks in a chart. When a chart contains a large number of data points, manually positioning these labels for each data point in the chart is a tedious task. A labeling algorithm is necessary to automatically layout the labels for a chart with a large number of data points. The state-of-the-art labeling algorithm detects overlaps using a set of points to approximate each mark's shape. This approach is inefficient for large marks or many marks as it requires too many points to detect overlaps. In response, we present a bitmap-based la",
+  "authors": [
+   "Chanwut Kittivorawong"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "How do Observable Users Decompose D3 Code? A Qualitative Study",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2405.14341v5",
+  "cited_by": null,
+  "abstract": "Many toolkit developers seek to streamline the visualization programming process through structured support such as prescribed templates and example galleries. However, few projects examine how users organize their own visualization programs and how their coding choices may deviate from the intents of toolkit developers, impacting visualization prototyping and design. Further, is it possible to infer users' reasoning indirectly through their code, even when users copy code from other sources? We explore this question through a qualitative analysis of 715 D3 programs on Observable. We identify ",
+  "authors": [
+   "Melissa Lin",
+   "Heer Patel",
+   "Medina Lamkin",
+   "Hannah Bako",
+   "Leilani Battle"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "VisQualdex -- the comprehensive guide to good data visualization",
+  "year": 2022,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2201.08684v3",
+  "cited_by": null,
+  "abstract": "The rapid influx of low-quality data visualisations is one of the main challenges in today's communication. Misleading, unreadable, or confusing visualisations spread misinformation, failing to fulfill their purpose. The lack of proper tooling further heightens the problem of the quality assessment process. Therefore, we propose VisQualdex, a systematic set of guidelines isnpired by the Grammar of Graphics for evaluating the quality of data visualisations. To increase the practical impact of VisQualdex, we make these guidelines available in the form of the web server, visqual.info.",
+  "authors": [
+   "Jan Sawicki",
+   "Micha\u0142 Burdukiewicz"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "AnnoGram: An Annotative Grammar of Graphics Extension",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2507.04236v1",
+  "cited_by": null,
+  "abstract": "Annotations are central to effective data communication, yet most visualization tools treat them as secondary constructs -- manually defined, difficult to reuse, and loosely coupled to the underlying visualization grammar. We propose a declarative extension to Wilkinson's Grammar of Graphics that reifies annotations as first-class design elements, enabling structured specification of annotation targets, types, and positioning strategies. To demonstrate the utility of our approach, we develop a prototype extension called Vega-Lite Annotation. Through comparison with eight existing tools, we sho",
+  "authors": [
+   "Md Dilshadur Rahman",
+   "Md Rahat-uz- Zaman",
+   "Andrew McNutt",
+   "Paul Rosen"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "DashQL -- Complete Analysis Workflows with SQL",
+  "year": 2023,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2306.03714v2",
+  "cited_by": null,
+  "abstract": "We present DashQL, a language that describes complete analysis workflows in self-contained scripts. DashQL combines SQL, the grammar of relational database systems, with a grammar of graphics in a grammar of analytics. It supports preparing and visualizing arbitrarily complex SQL statements in a single coherent language. The proximity to SQL facilitates holistic optimizations of analysis workflows covering data input, encoding, transformations, and visualizations. These optimizations use model and query metadata for visualization-driven aggregation, remote predicate pushdown, and adaptive mate",
+  "authors": [
+   "Andr\u00e9 Kohn",
+   "Dominik Moritz",
+   "Thomas Neumann"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "Visualizing Multimodality in Combinatorial Search Landscapes",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2510.06517v1",
+  "cited_by": null,
+  "abstract": "This work walks through different visualization techniques for combinatorial search landscapes, focusing on multimodality. We discuss different techniques from the landscape analysis literature, and how they can be combined to provide a more comprehensive view of the search landscape. We also include examples and discuss relevant work to show how others have used these techniques in practice, based on the geometric and aesthetic elements of the Grammar of Graphics. We conclude that there is no free lunch in visualization, and provide recommendations for future work as there are several paths t",
+  "authors": [
+   "Xavier F. C. S\u00e1nchez-D\u00edaz",
+   "Ole Jakob Mengshoel"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "Shu: Visualization of high dimensional biological pathways",
+  "year": 2023,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2304.07178v1",
+  "cited_by": null,
+  "abstract": "Summary: Shu is a visualization tool that integrates diverse data types into a metabolic map, with a focus on supporting multiple conditions and visualizing distributions. The goal is to provide a unified platform for handling the growing volume of multi-omics data, leveraging the metabolic maps developed by the metabolic modeling community. Additionally, shu offers a streamlined python API, based on the Grammar of Graphics, for easy integration with data pipelines. Availability and implementation: Freely available at https://github.com/biosustain/shu under MIT/Apache 2.0 license. Binaries are",
+  "authors": [
+   "Jorge Carrasco Muriel",
+   "Nicholas Cowie",
+   "Marjan Mansouvar",
+   "Teddy Groves",
+   "Lars Keld Nielsen"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "Demonstration of VegaPlus: Optimizing Declarative Visualization Languages",
+  "year": 2022,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2201.06742v2",
+  "cited_by": null,
+  "abstract": "While many visualization specification languages are user-friendly, they tend to have one critical drawback: they are designed for small data on the client-side and, as a result, perform poorly at scale. We propose a system that takes declarative visualization specifications as input and automatically optimizes the resulting visualization execution plans by offloading computational-intensive operations to a separate database management system (DBMS). Our demo emphasizes live programming of visualizations over big data, enabling users to write or import Vega specifications, view the optimized p",
+  "authors": [
+   "Junran Yang",
+   "Hyekang Kevin Joo",
+   "Sai S. Yerramreddy",
+   "Siyao Li",
+   "Dominik Moritz",
+   "Leilani Battle"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "Calendar-based graphics for visualizing people's daily schedules",
+  "year": 2018,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "1810.09624v1",
+  "cited_by": null,
+  "abstract": "Calendars are broadly used in society to display temporal information, and events. This paper describes a new R package with functionality to organize and display temporal data, collected on sub-daily resolution, into a calendar layout. The function `frame_calendar` uses linear algebra on the date variable to restructure data into a format lending itself to calendar layouts. The user can apply the grammar of graphics to create plots inside each calendar cell, and thus the displays synchronize neatly with ggplot2 graphics. The motivating application is studying pedestrian behavior in Melbourne,",
+  "authors": [
+   "Earo Wang",
+   "Dianne Cook",
+   "Rob J Hyndman"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "A Mathematical Framework and Software Implementation for Uncertainty Visualisation",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2606.24217v1",
+  "cited_by": null,
+  "abstract": "Random variables are the bread and butter of statistics, and visualisations are one of the most versatile tools in the field, so it is a wonder why we do not have a methodology for visualising random variables. This gap is particularly evident for exploratory data analysis (EDA). We address this gap by designing a mathematical framework for visualisation, which argues that we should consider visualisations to be continuous functions. In the case of random variable inputs, this means the visualisations should obey the continuous mapping theorem (CMT). By breaking the visual function down into i",
+  "authors": [
+   "Harriet Mason",
+   "Dianne Cook",
+   "Sarah Goodwin",
+   "Susan VanderPlas"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "Comparison of plotting system outputs in beginner analysts",
+  "year": 2019,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "1903.01829v1",
+  "cited_by": null,
+  "abstract": "The R programming language is built on an ecosystem of packages, some that allow analysts to accomplish the same tasks. For example, there are at least two clear workflows for creating data visualizations in R: using the base graphics package (referred to as \"base R\") and the ggplot2 add-on package based on the grammar of graphics. Here we perform an empirical study of the quality of scientific graphics produced by beginning R users. In our experiment, learners taking a data science course on the Coursera platform were randomized to complete identical plotting exercises in either the base R or",
+  "authors": [
+   "Leslie Myint",
+   "Aboozar Hadavand",
+   "Leah Jager",
+   "Jeffrey Leek"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "ChartRevise: A Dataset and Evaluation Protocol for Exact Chart Editing via Code",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.38642v1",
+  "cited_by": null,
+  "abstract": "Chart editing requires cross-modal edit grounding, realizing a requested visual change in the code that draws it, with necessary related updates and without altering unrelated content. Existing benchmarks emphasize either code executability or chart quality, but their metrics do not clearly distinguish request completion from missed coupled updates and gratuitous changes. We introduce ChartRevise, a structured dataset and evaluation protocol for exact program-grounded chart editing. For dataset construction, we build on the grammar of graphics to systematically cover chart-editing operations, ",
+  "authors": [
+   "Jiaxiang Tang",
+   "Yi Zhou",
+   "Chad DeLuca",
+   "Rogerio Feris",
+   "Ahmed Khalil Omran",
+   "Zhi-Li Zhang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "JSOL: JavaScript Open-source Library for Grammar of Graphics",
+  "year": 2022,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2201.04205v1",
+  "cited_by": null,
+  "abstract": "In this paper, we introduce the JavaScript Open-source Library (\\libname), a high-level grammar for representing data in visualization graphs and plots. \\libname~perspective on the grammar of graphics is unique; it provides state-of-art rules for encoding visual primitives that can be used to generate a known scene or to invent a new one. \\libname~has ton rules developed specifically for data-munging, mapping, and visualization through many layers, such as algebra, scales, and geometries. Additionally, it has a compiler that incorporates and combines all rules specified by a user and put them ",
+  "authors": [
+   "Waleed A. Yousef",
+   "Hisham E. Mohammed",
+   "Andrew A. Naguib",
+   "Rafat S. Eid",
+   "Sherif E. Emabrak",
+   "Ahmed F. Hamed"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "DIEL: Interactive Visualization Beyond the Here and Now",
+  "year": 2019,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "1907.00062v2",
+  "cited_by": null,
+  "abstract": "Interactive visualization design and research have primarily focused on local data and synchronous events. However, for more complex use cases---e.g., remote database access and streaming data sources---developers must grapple with distributed data and asynchronous events. Currently, constructing these use cases is difficult and time-consuming; developers are forced to operationally program low-level details like asynchronous database querying and reactive event handling. This approach is in stark contrast to modern methods for browser-based interactive visualization, which feature high-level ",
+  "authors": [
+   "Yifan Wu",
+   "Remco Chang",
+   "Joseph Hellerstein",
+   "Arvind Satyanarayan",
+   "Eugene Wu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "PieGlyph: An R package for creating axis invariant pie-glyphs for 2d plots",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2503.16478v1",
+  "cited_by": null,
+  "abstract": "Effective visualisation of multidimensional data is crucial for generating insights. Glyph-based visualisations, which encode data dimensions onto multiple visual channels such as colour, shape, and size, provide an effective means of representing complex datasets. Pie-chart glyphs (pie-glyphs) are one such approach, where multiple data attributes are mapped to slices within a pie chart. This paper introduces the PieGlyph R package, which enables users to overlay any 2D plot with axis-invariant pie-glyphs, offering a compact and intuitive representation of multidimensional data. Unlike existin",
+  "authors": [
+   "Rishabh Vishwakarma",
+   "Caroline Brophy",
+   "Catherine Hurley"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "Prompt4Vis: Prompting Large Language Models with Example Mining and Schema Filtering for Tabular Data Visualization",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2402.07909v1",
+  "cited_by": null,
+  "abstract": "Data visualization (DV) systems are increasingly recognized for their profound capability to uncover insights from vast datasets, gaining attention across both industry and academia. Crafting data queries is an essential process within certain declarative visualization languages (DVLs, e.g., Vega-Lite, EChart.). The evolution of natural language processing (NLP) technologies has streamlined the use of natural language interfaces to visualize tabular data, offering a more accessible and intuitive user experience. However, current methods for converting natural language questions into data visua",
+  "authors": [
+   "Shuaimin Li",
+   "Xuanang Chen",
+   "Yuanfeng Song",
+   "Yunze Song",
+   "Chen Zhang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "P6: A Declarative Language for Integrating Machine Learning in Visual Analytics",
+  "year": 2020,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2009.01399v1",
+  "cited_by": null,
+  "abstract": "We present P6, a declarative language for building high performance visual analytics systems through its support for specifying and integrating machine learning and interactive visualization methods. As data analysis methods based on machine learning and artificial intelligence continue to advance, a visual analytics solution can leverage these methods for better exploiting large and complex data. However, integrating machine learning methods with interactive visual analysis is challenging. Existing declarative programming libraries and toolkits for visualization lack support for coupling mach",
+  "authors": [
+   "Jianping Kelvin Li",
+   "Kwan-Liu Ma"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "view_grammars",
+  "query": "abs:\"declarative visualization\" OR abs:\"grammar of graphics\" OR ti:\"Vega-Lite\"",
+  "title": "VegaChat: A Robust Framework for LLM-Based Chart Generation and Assessment",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2601.15385v1",
+  "cited_by": null,
+  "abstract": "Natural-language-to-visualization (NL2VIS) systems based on large language models (LLMs) have substantially improved the accessibility of data visualization. However, their further adoption is hindered by two coupled challenges: (i) the absence of standardized evaluation metrics makes it difficult to assess progress in the field and compare different approaches; and (ii) natural language descriptions are inherently underspecified, so multiple visualizations may be valid for the same query. To address these issues, we introduce VegaChat, a framework for generating, validating, and assessing dec",
+  "authors": [
+   "Marko Hostnik",
+   "Rauf Kurbanov",
+   "Yaroslav Sokolov",
+   "Artem Trofimov"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "PIER: An Evidence-Gated Execution Interface for Robotic Manipulation",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2610.12123v1",
+  "cited_by": null,
+  "abstract": "Generating a plausible robot action does not establish that current observations justify its execution. Motivated by exploratory observations of high-confidence visual outputs under severe occlusion, we present PIER, an execution-authorization interface that separates evidence checks, decision provenance, and stage-scoped re-observation from hardware control. The deterministic gate evaluates declared visual and tactile inputs, while its caller maintains a budget of at most one re-observation per stage. We evaluate the implementation using 1,600 threshold-grid cases and 1,200 paired synthetic t",
+  "authors": [
+   "Zoe Li",
+   "Anze Wang",
+   "Zhongyu Chen",
+   "Jingran Hu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "LEGOUI: Designing with UI-DSL Bricks to Balance Transparency and Controllability",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2608.04293v1",
+  "cited_by": null,
+  "abstract": "Generative user interface design tools enable rapid prototyping but often operate as black boxes with limited transparency and controllability. When outputs diverge from the designer's intent, users are left tweaking prompts via trial-and-error with little insight into the model's reasoning. We present LegoUI, a staged generative framework that structures the interface design process into sequential, interpretable steps along key design dimensions, capturing each step's result in a UI domain-specific language (UI-DSL) enriched with provenance. This approach exposes the model's intermediate rea",
+  "authors": [
+   "Yinsi Zhou",
+   "Mingyue Yuan",
+   "Hongyue Xu",
+   "Jieshan Chen",
+   "Dong Wen",
+   "Shidong Pan"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Towards a Working Definition of Designing Generative User Interfaces",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2505.15049v1",
+  "cited_by": null,
+  "abstract": "Generative UI is transforming interface design by facilitating AI-driven collaborative workflows between designers and computational systems. This study establishes a working definition of Generative UI through a multi-method qualitative approach, integrating insights from a systematic literature review of 127 publications, expert interviews with 18 participants, and analyses of 12 case studies. Our findings identify five core themes that position Generative UI as an iterative and co-creative process. We highlight emerging design models, including hybrid creation, curation-based workflows, and",
+  "authors": [
+   "Kyungho Lee"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Macaron-A2UI: A Model for Generative UI in Personal Agents",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2605.24830v1",
+  "cited_by": null,
+  "abstract": "As personal agents evolve to handle complex, user-centric tasks, static plain-text chat is rapidly becoming a bottleneck. Generative UI emerges as the necessary new interface layer, dynamically synthesizing the right controls, options, and state from the interaction context in real time. We present Macaron-A2UI, a model for Generative UI in personal agents. Our goal is to move beyond text-only interaction by enabling agents to generate natural language together with lightweight, executable UI actions for information collection, preference refinement, confirmation, and multi-goal organization. ",
+  "authors": [
+   "Fancy Kong",
+   "Congjie Zheng",
+   "Murphy Zhuang",
+   "Rio Yang",
+   "Sueky Zhang",
+   "Hao Fu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Generative UI: LLMs are Effective UI Generators",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2604.09577v1",
+  "cited_by": null,
+  "abstract": "AI models excel at creating content, but typically render it with static, predefined interfaces. Specifically, the output of LLMs is often a markdown \"wall of text\". Generative UI is a long standing promise, where the model generates not just the content, but the interface itself. Until now, Generative UI was not possible in a robust fashion. We demonstrate that when properly prompted and equipped with the right set of tools, a modern LLM can robustly produce high quality custom UIs for virtually any prompt. When ignoring generation speed, results generated by our implementation are overwhelmi",
+  "authors": [
+   "Yaniv Leviathan",
+   "Dani Valevski",
+   "Matan Kalman",
+   "Danny Lumen",
+   "Eyal Segalis",
+   "Eyal Molad"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Design Theater: Evaluating the Gap Between User-Facing Design Reasoning and Implementation in Generative UI Tools",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2607.22928v2",
+  "cited_by": null,
+  "abstract": "Generative UI tools promise to democratize UI design by turning natural language descriptions into complete interfaces. Alongside the interface, these tools generate user-facing design rationales that explain their layout, accessibility, and design choices. However, it remains unclear whether these stated rationales are actually reflected in the interfaces they produce. We call this disconnect ``Design Theater'': plausible and confident design rationales that have little relationship to the actual implementation. To study this phenomenon, we introduce a benchmark and three metrics for measurin",
+  "authors": [
+   "Kashif Imteyaz",
+   "Kaif Imteyaz",
+   "Nakul Rajpal",
+   "Kaif Shaikh",
+   "Michael Muller",
+   "Saiph Savage"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "User-Centered Design with AI in the Loop: A Case Study of Rapid User Interface Prototyping with \"Vibe Coding\"",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2507.21012v1",
+  "cited_by": null,
+  "abstract": "We present a case study of using generative user interfaces, or ``vibe coding,'' a method leveraging large language models (LLMs) for generating code via natural language prompts, to support rapid prototyping in user-centered design (UCD). Extending traditional UCD practices, we propose an AI-in-the-loop ideate-prototyping process. We share insights from an empirical experience integrating this process to develop an interactive data analytics interface for highway traffic engineers to effectively retrieve and analyze historical traffic data. With generative UIs, the team was able to elicit ric",
+  "authors": [
+   "Tianyi Li",
+   "Tanay Maheshwari",
+   "Alex Voelker"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Generative UI as an Accessibility Bridge: Lessons from C2C E-Commerce",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2604.25455v1",
+  "cited_by": null,
+  "abstract": "Web accessibility rests on static standards and developer compliance. That model frays in platforms where content is user-generated: photos arrive blurry or off-frame, descriptions skip size and condition, and page structure shifts from listing to listing. Drawing on six studies conducted between 2022 and 2025 with blind, low-vision, and older adult users of customer-to-customer (C2C) marketplaces, I argue that generative UI can produce adapted interfaces at the point of use, addressing barriers that static design cannot anticipate. Three interventions from this program -- HTML regeneration fo",
+  "authors": [
+   "Bektur Ryskeldiev"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Harnessing Generative UI for Education: Tailored Learning Interactives",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.20738v1",
+  "cited_by": null,
+  "abstract": "It is well established that students learn best through active engagement, particularly via interactive experiences tied to real-world concepts. Creating such experiences, however, typically requires labor-intensive design, costly development, and continuous teacher guidance to achieve measurably effective outcomes. Recent advances in generative UI open the door for a future of practice where the creation of tailored interactive experiences is automated. However, off-the-shelf models lack optimization for pedagogical precision and learning principles, often yielding unsatisfactory results for ",
+  "authors": [
+   "Alisa Kovshov",
+   "Anisha Choudhury",
+   "Anna Iurchenko",
+   "Amy Keeling",
+   "Avinatan Hassidim",
+   "Ayelet Shasha Evron"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "EvoGenUI-Bench: Evaluating LLMs as Multi-Turn Generative UI Assistants",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2608.29387v2",
+  "cited_by": null,
+  "abstract": "Large language models can generate interactive web interfaces, but reliable generative UI requires maintaining an executable artifact as user requests evolve. We introduce EvoGenUI-Bench, a benchmark for multi-turn interface maintenance comprising 150 five-turn tasks and 750 turns across three scenarios: information presentation, executable interaction, and tool-grounded external state. We execute generated artifacts in a browser and evaluate them using screenshots, source and DOM evidence, actor traces, and runtime logs. Beyond turn-level and episode-level success, we measure cross-turn reten",
+  "authors": [
+   "Yue Peng",
+   "Lanke Xia",
+   "Zihan Wang",
+   "Jiahao Ye",
+   "Ke Ning",
+   "Hongyi Wen"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Maru: Information Architecture as a Shared Language for Generating Aligned and Persistent User Interfaces",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2608.25565v1",
+  "cited_by": null,
+  "abstract": "Generative user interfaces (GenUIs) promise on-demand components tailored to users' needs. As users iterate on information tasks, they construct personal structures over information they encounter---how items are grouped, what gets prioritized, and what terms mean in their context. Yet, current systems leave these structural decisions to the model at each generation, ignoring the structural logic users have established. Without a persistent representational structure shared between user and system, GenUIs have no basis to remain aligned with what users have established. We draw on Information ",
+  "authors": [
+   "Eunhye Kim",
+   "DaEun Choi",
+   "Bryan Min",
+   "Hyunjung Yi",
+   "Yue Jiang",
+   "Juho Kim"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "AlignUI: A Method for Designing LLM-Generated UIs Aligned with User Preferences",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2601.17614v1",
+  "cited_by": null,
+  "abstract": "Designing user interfaces that align with user preferences is a time-consuming process, which requires iterative cycles of prototyping, user testing, and refinement. Recent advancements in LLM-based UI generation have enabled efficient UI generation to assist the UI design process. We introduce AlignUI, a method that aligns LLM-generated UIs with user tasks and preferences by using a user preference dataset to guide the LLM's reasoning process. The dataset was crowdsourced from 50 general users (the target users of generated UIs) and contained 720 UI control preferences on eight image-editing ",
+  "authors": [
+   "Yimeng Liu",
+   "Misha Sra",
+   "Chang Xiao"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "The GenUI Study: Exploring the Design of Generative UI Tools to Support UX Practitioners and Beyond",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2501.13145v3",
+  "cited_by": null,
+  "abstract": "AI can now generate high-fidelity UI mock-up screens from a high-level textual description, promising to support UX practitioners' work. However, it remains unclear how UX practitioners would adopt such Generative UI (GenUI) models in a way that is integral and beneficial to their work. To answer this question, we conducted a formative study with 37 UX-related professionals that consisted of four roles: UX designers, UX researchers, software engineers, and product managers. Using a state-of-the-art GenUI tool, each participant went through a week-long, individual mini-project exercise with rol",
+  "authors": [
+   "Xiang 'Anthony' Chen",
+   "Tiffany Knearem",
+   "Yang Li"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "UICrit: Enhancing Automated Design Evaluation with a UICritique Dataset",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2407.08850v3",
+  "cited_by": null,
+  "abstract": "Automated UI evaluation can be beneficial for the design process; for example, to compare different UI designs, or conduct automated heuristic evaluation. LLM-based UI evaluation, in particular, holds the promise of generalizability to a wide variety of UI types and evaluation tasks. However, current LLM-based techniques do not yet match the performance of human evaluators. We hypothesize that automatic evaluation can be improved by collecting a targeted UI feedback dataset and then using this dataset to enhance the performance of general-purpose LLMs. We present a targeted dataset of 3,059 de",
+  "authors": [
+   "Peitong Duan",
+   "Chin-yi Chen",
+   "Gang Li",
+   "Bjoern Hartmann",
+   "Yang Li"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "TaskArtisan: Designing Composable Generative Widgets for LLM-Assisted Analysis",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2607.17394v2",
+  "cited_by": null,
+  "abstract": "People increasingly use chatbots such as ChatGPT for everyday analysis tasks. While chatbots unify many analysis functions (e.g., scripts, visualizations, summaries), long conversations become hard to navigate, making it difficult to revisit prior steps or reuse successful workflows. LLMs now generate high-fidelity GUI code that enables people to create customized analysis tools beyond text. Yet, what new opportunities generative UIs bring to analysis work remain unclear. We interviewed six professionals about analysis with chatbots, analyzed publicly shared LLM-generated GUI tools, and conduc",
+  "authors": [
+   "Meng Chen",
+   "Amy Pavel"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "When Interfaces Speak: Data-Aware Generative UI Harness for Active Interaction",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2610.11123v1",
+  "cited_by": null,
+  "abstract": "Most human-agent interaction today remains text-based. Natural language can impose cognitive overload, ambiguity, information chaos, and slow input for complex tasks; ephemeral generative UIs can present structured information and guide users toward task completion. We propose GenUI-Harness, a multi-agent harness pairing a Tool Agent for information retrieval and task execution with a GUI Coder Agent that identifies ambiguities and generates front-end code for structured interfaces. Training the coder with reinforcement learning is challenging: verifiable rewards for interactive UI generation ",
+  "authors": [
+   "Xiaolong Li",
+   "Xiaohan Xu",
+   "Jinyang Li",
+   "Xinnuo Xu",
+   "Ge Qu",
+   "Nan Huo"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Gradual Generation of User Interfaces as a Design Method for Malleable Software",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2601.17975v1",
+  "cited_by": null,
+  "abstract": "AI is growing increasingly capable of automatically generating user interfaces (GenUI) from user prompts. However, designing GenUI applications that enable users to discover diverse customizations while preserving GenUI's expressiveness remains challenging. Current design methods -- presenting prompt boxes and leveraging context -- lack affordances for customization discovery, while traditional menu-based approaches become overly complex given GenUI's vast customization space. We propose Gradually Generating User Interfaces -- a design method that structures customizations into intermediate UI",
+  "authors": [
+   "Bryan Min",
+   "Peiling Jiang",
+   "Zhicheng Huang",
+   "Haijun Xia"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API",
+  "year": 2023,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2310.04716v1",
+  "cited_by": null,
+  "abstract": "Recent popularity of Large Language Models (LLMs) has opened countless possibilities in automating numerous AI tasks by connecting LLMs to various domain-specific models or APIs, where LLMs serve as dispatchers while domain-specific models or APIs are action executors. Despite the vast numbers of domain-specific models/APIs, they still struggle to comprehensively cover super diverse automation demands in the interaction between human and User Interfaces (UIs). In this work, we build a multimodal model to ground natural language instructions in given UI screenshots as a generic UI task automati",
+  "authors": [
+   "Zhizheng Zhang",
+   "Wenxuan Xie",
+   "Xiaoyi Zhang",
+   "Yan Lu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "MLLM-Based UI2Code Automation Guided by UI Layout Information",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2506.10376v1",
+  "cited_by": null,
+  "abstract": "Converting user interfaces into code (UI2Code) is a crucial step in website development, which is time-consuming and labor-intensive. The automation of UI2Code is essential to streamline this task, beneficial for improving the development efficiency. There exist deep learning-based methods for the task; however, they heavily rely on a large amount of labeled training data and struggle with generalizing to real-world, unseen web page designs. The advent of Multimodal Large Language Models (MLLMs) presents potential for alleviating the issue, but they are difficult to comprehend the complex layo",
+  "authors": [
+   "Fan Wu",
+   "Cuiyun Gao",
+   "Shuqing Li",
+   "Xin-Cheng Wen",
+   "Qing Liao"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "TaoD2C-Bench: Benchmarking MLLMs for Industrial UI Code Generation Beyond Visual Fidelity",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2610.10374v1",
+  "cited_by": null,
+  "abstract": "A key challenge for multimodal large language models (MLLMs) is moving beyond visual recognition to constraint-aware cross-modal reasoning. This involves combining visual cues with information from other modalities to understand elements' relationships under domain-specific rules. This challenge is acutely evident in industrial design-to-code (D2C), which converts user interface (UI) designs into code and requires MLLMs to connect design images with disorganized layer metadata, infer component and layout implementation requirements, and realize them in code under target-library constraints. Ho",
+  "authors": [
+   "Chengwei Shi",
+   "Yunnong Chen",
+   "Tingting Zhou",
+   "Qiang Lu",
+   "Shiyu Yue",
+   "Xinyuan Hu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Automatically Generating UI Code from Screenshot: A Divide-and-Conquer-Based Approach",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2406.16386v3",
+  "cited_by": null,
+  "abstract": "Websites are critical in today's digital world, with over 1.11 billion currently active and approximately 252,000 new sites launched daily. Converting website layout design into functional UI code is a time-consuming yet indispensable step of website development. Manual methods of converting visual designs into functional code present significant challenges, especially for non-experts. To explore automatic design-to-code solutions, we first conduct a motivating study on GPT-4o and identify three types of issues in generating UI code: element omission, element distortion, and element misarrange",
+  "authors": [
+   "Yuxuan Wan",
+   "Chaozheng Wang",
+   "Yi Dong",
+   "Wenxuan Wang",
+   "Shuqing Li",
+   "Yintong Huo"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Beyond a Single Judge: The Evidence-Grounded, Social-Weighted Persona Panel for Generative UI Evaluation",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2607.28439v2",
+  "cited_by": null,
+  "abstract": "Generative UI (GenUI) lets large language models synthesize a complete, renderable interface directly from a natural-language instruction, but evaluating the quality of what they generate remains an open problem. Human evaluation is costly and rater-variant, while LLM-as-a-judge is scalable but reflects only a single implicit viewpoint, unable to capture how different populations of real users actually perceive the same interface. We propose the Evidence-Grounded, Social-Weighted Persona Panel (ESPP), a three-stage GenUI evaluation method in which a panel of psychologically diverse, evidence-g",
+  "authors": [
+   "Zheng Wu",
+   "Yibo Luo",
+   "Pu Zhang",
+   "Cheng Yang",
+   "Zhuosheng Zhang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Human Oversight-by-Design for Accessible Generative IUIs",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2602.13745v1",
+  "cited_by": null,
+  "abstract": "LLM-generated interfaces are increasingly used in high-consequence workflows (e.g., healthcare communication), where how information is presented can impact downstream actions. These interfaces and their content support human interaction with AI-assisted decision-making and communication processes and should remain accessible and usable for people with disabilities. Accessible plain-language interfaces serve as an enabling infrastructure for meaningful human oversight. In these contexts, ethical and trustworthiness risks, including hallucinations, semantic distortion, bias, and accessibility b",
+  "authors": [
+   "Blessing Jerry",
+   "Lourdes Moreno",
+   "Paloma Mart\u00ednez"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "The Keyhole Effect: Why Chat Interfaces Fail at Data Analysis",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2602.00947v1",
+  "cited_by": null,
+  "abstract": "Chat has become the default interface for AI-assisted data analysis. For multi-step, state-dependent analytical tasks, this is a mistake. Building on Woods (1984) Keyhole Effect, the cognitive cost of viewing large information spaces through narrow viewports, I show that chat interfaces systematically degrade analytical performance through five mechanisms: (1) constant content displacement defeats hippocampal spatial memory systems; (2) hidden state variables exceed working memory capacity (approximately 4 chunks under load); (3) forced verbalization triggers verbal overshadowing, degrading vi",
+  "authors": [
+   "Mohan Reddy"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "On AI-Inspired UI-Design",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2406.13631v2",
+  "cited_by": null,
+  "abstract": "Graphical User Interface (or simply UI) is a primary mean of interaction between users and their devices. In this paper, we discuss three complementary Artificial Intelligence (AI) approaches for triggering the creativity of app designers and inspiring them create better and more diverse UI designs. First, designers can prompt a Large Language Model (LLM) to directly generate and adjust UIs. Second, a Vision-Language Model (VLM) enables designers to effectively search a large screenshot dataset, e.g. from apps published in app stores. Third, a Diffusion Model (DM) can be trained to specificall",
+  "authors": [
+   "Jialiang Wei",
+   "Anne-Lise Courbis",
+   "Thomas Lambolais",
+   "G\u00e9rard Dray",
+   "Walid Maalej"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2606.15902v1",
+  "cited_by": null,
+  "abstract": "The dominant paradigm in using generative UI (GenUI) for adaptive EdTech considers the use of AI as a runtime engine: content is authored once in a fixed form, and AI adapts delivery dynamically based on learner needs, behaviors, or profiles. We argue that this paradigm has an issue: it moves the burden of accessibility and representation diversity onto systems that see learners only after content has already been locked into particular details. For learners who might need audio-first, simplified text, interactive, or low-bandwidth representations, runtime adaptation is too late and too costly",
+  "authors": [
+   "Seyed Parsa Neshaei",
+   "Abhinand Shibu",
+   "Fatma Bet\u00fcl G\u00fcres"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "Reasoning about Study Regulations in Answer Set Programming",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2408.04528v1",
+  "cited_by": null,
+  "abstract": "We are interested in automating reasoning with and about study regulations, catering to various stakeholders, ranging from administrators, over faculty, to students at different stages. Our work builds on an extensive analysis of various study programs at the University of Potsdam. The conceptualization of the underlying principles provides us with a formal account of study regulations. In particular, the formalization reveals the properties of admissible study plans. With these at end, we propose an encoding of study regulations in Answer Set Programming that produces corresponding study plan",
+  "authors": [
+   "Susana Hahn",
+   "Cedric Martens",
+   "Amade Nemes",
+   "Henry Otunuya",
+   "Javier Romero",
+   "Torsten Schaub"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "gen_views",
+  "query": "abs:\"generative user interface\" OR abs:\"generative UI\" OR (abs:\"large language model\" AND abs:\"user interface generation\") OR abs:\"dynamic application\"",
+  "title": "FlowEval: Reference-based Evaluation of Generated User Interfaces",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2605.04165v1",
+  "cited_by": null,
+  "abstract": "While large language models (LLMs) and coding agents are often applied to user interface (UI) development, developers find it difficult to reliably assess their proficiency in visual and interaction design. Existing evaluations either rely on human experts, who can accurately assess usability by testing critical flows but are slow and costly, or on automated judges, which are scalable but less accurate and opaque. We present FlowEval, a reference-based framework that measures whether a generated UI supports realistic interaction flows by comparing navigation traces from real websites to traces",
+  "authors": [
+   "Jason Wu",
+   "Priyan Vaithilingam",
+   "Eldon Schoop",
+   "Jeffrey Nichols",
+   "Titus Barik"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "Point and Instruct: Enabling Precise Image Editing by Unifying Direct Manipulation and Text Instructions",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2402.07925v1",
+  "cited_by": null,
+  "abstract": "Machine learning has enabled the development of powerful systems capable of editing images from natural language instructions. However, in many common scenarios it is difficult for users to specify precise image transformations with text alone. For example, in an image with several dogs, it is difficult to select a particular dog and move it to a precise location. Doing this with text alone would require a complex prompt that disambiguates the target dog and describes the destination. However, direct manipulation is well suited to visual tasks like selecting objects and specifying locations. W",
+  "authors": [
+   "Alec Helbling",
+   "Seongmin Lee",
+   "Polo Chau"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "Lyra 2: Designing Interactive Visualizations by Demonstration",
+  "year": 2020,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2008.09576v2",
+  "cited_by": null,
+  "abstract": "Recent graphical interfaces offer direct manipulation mechanisms for authoring visualizations, but are largely restricted to static output. To author interactive visualizations, users must instead turn to textual specification; but, such approaches impose a higher technical burden than their graphical counterparts. To bridge this gap, we introduce interaction design by demonstration: a novel method for authoring interaction techniques via direct manipulation. Users perform an interaction (e.g., button clicks, drags, or key presses) directly on the visualization they are editing. The system int",
+  "authors": [
+   "Jonathan Zong",
+   "Dhiraj Barnwal",
+   "Rupayan Neogy",
+   "Arvind Satyanarayan"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "MM-SVGEdit: A Multimodal-Driven SVG Editing for UI Design",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.06116v1",
+  "cited_by": null,
+  "abstract": "In the field of UI design, Scalable Vector Graphics (SVG) is widely used as a design medium. However, traditional SVG editing techniques have high entry barriers and require cumbersome manual iteration, while LLM-based editing solutions suffer from low accuracy and poor user controllability. To address these issues, we propose MM-SVGEdit, a multimodal-driven SVG editing approach that integrates traditional SVG editing and LLM-based methods. We introduce a two-stage strategy in which visual grounding is followed by modification. Both stages support two interaction modalities: natural language i",
+  "authors": [
+   "Shibo Yang",
+   "Yuqing Gao",
+   "Zipeng Liu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "RealityEffects: Augmenting 3D Volumetric Videos with Object-Centric Annotation and Dynamic Visual Effects",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2405.17711v1",
+  "cited_by": null,
+  "abstract": "This paper introduces RealityEffects, a desktop authoring interface designed for editing and augmenting 3D volumetric videos with object-centric annotations and visual effects. RealityEffects enhances volumetric capture by introducing a novel method for augmenting captured physical motion with embedded, responsive visual effects, referred to as object-centric augmentation. In RealityEffects, users can interactively attach various visual effects to physical objects within the captured 3D scene, enabling these effects to dynamically move and animate in sync with the corresponding physical motion",
+  "authors": [
+   "Jian Liao",
+   "Kevin Van",
+   "Zhijie Xia",
+   "Ryo Suzuki"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "Plottery: A Code-Integrated GUI for Matplotlib",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2610.14306v1",
+  "cited_by": null,
+  "abstract": "Scientists have many tools to author plots: graphical direct manipulation apps like a spreadsheet's chart builder, text-based programming tools like Matplotlib and ggplot2, or AI chat interfaces. Textual code is the most capable of these, but writing code, even with AI assistance, is a potentially poor fit for graphical chart design. We present Plottery, a Jupyter notebook extension that leverages API type annotations to add graphical direct manipulation to the popular Matplotlib plotting library. User interactions in Plottery's in-situ graphical interface are immediately reified in the user's",
+  "authors": [
+   "Brian Hempel",
+   "Ruanqianqian Huang",
+   "Devamardeep Hayatpur",
+   "Sorin Lerner",
+   "Haijun Xia"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "Point Resampling and Ray Transformation Aid to Editable NeRF Models",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2405.07306v1",
+  "cited_by": null,
+  "abstract": "In NeRF-aided editing tasks, object movement presents difficulties in supervision generation due to the introduction of variability in object positions. Moreover, the removal operations of certain scene objects often lead to empty regions, presenting challenges for NeRF models in inpainting them effectively. We propose an implicit ray transformation strategy, allowing for direct manipulation of the 3D object's pose by operating on the neural-point in NeRF rays. To address the challenge of inpainting potential empty regions, we present a plug-and-play inpainting module, dubbed differentiable ne",
+  "authors": [
+   "Zhenyang Li",
+   "Zilong Chen",
+   "Feifan Qu",
+   "Mingqing Wang",
+   "Yizhou Zhao",
+   "Kai Zhang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "Textoshop: Interactions Inspired by Drawing Software to Facilitate Text Editing",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2409.17088v2",
+  "cited_by": null,
+  "abstract": "We explore how interactions inspired by drawing software can help edit text. Making an analogy between visual and text editing, we consider words as pixels, sentences as regions, and tones as colours. For instance, direct manipulations move, shorten, expand, and reorder text; tools change number, tense, and grammar; colours map to tones explored along three dimensions in a tone picker; and layers help organize and version text. This analogy also leads to new workflows, such as boolean operations on text fragments to construct more elaborated text. A study shows participants were more successfu",
+  "authors": [
+   "Damien Masson",
+   "Young-Ho Kim",
+   "Fanny Chevalier"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "Interactive Generative Motion Editing via Scheduled Inpainting",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2607.29133v1",
+  "cited_by": null,
+  "abstract": "Motion editing is central to VFX and game development, where it is used extensively to modify and augment existing movements to conform to new environments or changes in artistic direction. While traditional motion editing can do small modifications, it cannot accommodate larger structural edits, resulting in visual warping artifacts that require authoring new motion. Conversely, recent advances in large-scale generative modeling have unlocked newfound capabilities for authoring entire movements by directly manipulating sparse spatial constraints. While impressive at creating new movements, th",
+  "authors": [
+   "Dhruv Agrawal",
+   "Dominik Borer",
+   "Luca V\u00f6geli",
+   "Robert Sumner",
+   "Martin Guay",
+   "Jakob Buhmann"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "DepthScape: Authoring 2.5D Designs via Depth Estimation, Semantic Understanding, and Geometry Extraction",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2512.02263v1",
+  "cited_by": null,
+  "abstract": "2.5D effects, such as occlusion and perspective foreshortening, enhance visual dynamics and realism by incorporating 3D depth cues into 2D designs. However, creating such effects remains challenging and labor-intensive due to the complexity of depth perception. We introduce DepthScape, a human-AI collaborative system that facilitates 2.5D effect creation by directly placing design elements into 3D reconstructions. Using monocular depth reconstruction, DepthScape transforms images into 3D reconstructions where visual contents are placed to automatically achieve realistic occlusion and perspecti",
+  "authors": [
+   "Xia Su",
+   "Cuong Nguyen",
+   "Matheus A. Gadelha",
+   "Jon E. Froehlich"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "Locating and Editing Factual Associations in GPT",
+  "year": 2022,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2202.05262v5",
+  "cited_by": null,
+  "abstract": "We analyze the storage and recall of factual associations in autoregressive transformer language models, finding evidence that these associations correspond to localized, directly-editable computations. We first develop a causal intervention for identifying neuron activations that are decisive in a model's factual predictions. This reveals a distinct set of steps in middle-layer feed-forward modules that mediate factual predictions while processing subject tokens. To test our hypothesis that these computations correspond to factual association recall, we modify feed-forward weights to update s",
+  "authors": [
+   "Kevin Meng",
+   "David Bau",
+   "Alex Andonian",
+   "Yonatan Belinkov"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "HEPHA: A Mixed-Initiative Image Labeling Tool for Specialized Domains",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2503.03094v2",
+  "cited_by": null,
+  "abstract": "Image labeling is an important task for training computer vision models. In specialized domains, such as healthcare, it is expensive and challenging to recruit specialists for image labeling. We propose HEPHA, a mixed-initiative image labeling tool that elicits human expertise via inductive logic learning to infer and refine labeling rules. Each rule comprises visual predicates that describe the image. HEPHA enables users to iteratively refine the rules by either direct manipulation through a visual programming interface or by labeling more images. To facilitate rule refinement, HEPHA recommen",
+  "authors": [
+   "Shiyuan Zhou",
+   "Bingxuan Li",
+   "Xiyuan Chen",
+   "Zhi Tu",
+   "Yifeng Wang",
+   "Yiwen Xiang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "When Should Teachers Control AI Generation for Mathematics Visuals?",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2605.10672v1",
+  "cited_by": null,
+  "abstract": "Generative AI has the potential to help teachers rapidly create classroom-ready visual materials, particularly in mathematics where diagrams and visual representations must be pedagogically meaningful and instructionally correct. However, current generative tools primarily support prompting and post-hoc editing, leaving open a key question for correctness-sensitive educational authoring: when in the generation pipeline should teachers exert control? In this paper, we investigate how the timing of human control in AI-assisted generation shapes teachers' visual authoring practices in correctness",
+  "authors": [
+   "Zhengxu Li",
+   "Junling Wang",
+   "April Yi Wang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "JODA: Composable Joint Dynamics for Articulated Objects",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2605.09954v1",
+  "cited_by": null,
+  "abstract": "Articulated objects used in simulation and embodied AI are typically specified by geometry and kinematic structure, but lack the fine-grained dynamical effects that govern realistic mechanical behavior, such as frictional holding, detents, soft closing, and snap latching. Existing approaches either ignore the detailed structure of dynamics entirely, or use simple models with limited expressiveness. We introduce JODA, a framework for generating joint-level dynamics as a structured three-channel field over the joint degree of freedom, capturing conservative forces, dry friction, and damping. Ins",
+  "authors": [
+   "Tianhong Gao",
+   "Cheng Yu",
+   "Yinghao Xu",
+   "Mengyu Chu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "binding_writeback",
+  "query": "abs:\"direct manipulation\" AND abs:\"visualization\" AND abs:\"editing\"",
+  "title": "NeuroSync: Intent-Aware Code-Based Problem Solving via Direct LLM Understanding Modification",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2508.02823v1",
+  "cited_by": null,
+  "abstract": "Conversational LLMs have been widely adopted by domain users with limited programming experience to solve domain problems. However, these users often face misalignment between their intent and generated code, resulting in frustration and rounds of clarification. This work first investigates the cause of this misalignment, which dues to bidirectional ambiguity: both user intents and coding tasks are inherently nonlinear, yet must be expressed and interpreted through linear prompts and code sequences. To address this, we propose direct intent-task matching, a new human-LLM interaction paradigm t",
+  "authors": [
+   "Wenshuo Zhang",
+   "Leixian Shen",
+   "Shuchang Xu",
+   "Jindu Wang",
+   "Jian Zhao",
+   "Huamin Qu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Beyond \"Made with AI\": Visualizing Provenance Density to Mitigate the Transparency Penalty",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.03460v1",
+  "cited_by": null,
+  "abstract": "As generative AI makes polished prose cheap to produce, users can no longer rely on fluency as a proxy for truth. We call this failure mode the Fluency Trap: users trust fluent hallucinations while also discounting accurate content once it is disclosed as AI-generated. Binary ``Made with AI'' labels respond with authorship disclosure, but they do not show what supports a claim. We propose Provenance Density, an evidence-visualization interface that shows the density of verified claims in a text. In a user study with 81 participants, an idealized Provenance Density interface produced a large di",
+  "authors": [
+   "Qing Zhang",
+   "Yifei Huang",
+   "Juyoung Lee",
+   "Thad Starner",
+   "Jun Rekimoto"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Examining the Impact of Provenance-Enabled Media on Trust and Accuracy Perceptions",
+  "year": 2023,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2303.12118v3",
+  "cited_by": null,
+  "abstract": "In recent years, industry leaders and researchers have proposed to use technical provenance standards to address visual misinformation spread through digitally altered media. By adding immutable and secure provenance information such as authorship and edit date to media metadata, social media users could potentially better assess the validity of the media they encounter. However, it is unclear how end users would respond to provenance information, or how to best design provenance indicators to be understandable to laypeople. We conducted an online experiment with 595 participants from the US a",
+  "authors": [
+   "K. J. Kevin Feng",
+   "Nick Ritchie",
+   "Pia Blumenthal",
+   "Andy Parsons",
+   "Amy X. Zhang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "RaivenTracks: Branching Provenance for Conversational Visualization Workflows",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2608.14869v2",
+  "cited_by": null,
+  "abstract": "As AI agents increasingly participate in scientific workflows, scientists are shifting from direct authorship toward oversight, inspection, and steering. LLM-driven visualization systems are a promising interface for this hand-off, yet they remain largely stateless, forcing users to reconstruct context across refinements and offering little support for revisiting prior decisions or exploring alternatives. We present RaivenTracks, a workflow-aware extension of the Raiven DSL-mediated visualization pipeline that treats validated visualization specifications as persistent, branchable checkpoints.",
+  "authors": [
+   "Ella Hugie",
+   "Alexandra Irger",
+   "Grace Guo",
+   "Kenneth Moreland",
+   "David Pugmire",
+   "Scott Klasky"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "When Direct Manipulation Becomes a Guess: Productive Friction in AI-Mediated Multisensory Visualization",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.27104v1",
+  "cited_by": null,
+  "abstract": "Generative visualization increasingly embeds large language models within direct manipulation and multisensory interaction. Speech, gaze, touch, gesture, sound, and haptics can make probabilistic inference feel like familiar, deterministic tool use. I call this gap a deterministic-affordance mismatch: deterministic interaction cues persist while AI weakens predictability, locality, reversibility, or provenance. Reading the malleable interfaces of Iron Man 2 against systems from Blade Runner 2049, I propose productive friction, including cross-sensory renderings whose detail reflects model unce",
+  "authors": [
+   "Anchit Mishra"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis",
+  "year": 2023,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2301.10385v1",
+  "cited_by": null,
+  "abstract": "Natural language interfaces (NLIs) enable users to flexibly specify analytical intentions in data visualization. However, diagnosing the visualization results without understanding the underlying generation process is challenging. Our research explores how to provide explanations for NLIs to help users locate the problems and further revise the queries. We present XNLI, an explainable NLI system for visual data analysis. The system introduces a Provenance Generator to reveal the detailed process of visual transformations, a suite of interactive widgets to support error adjustments, and a Hint ",
+  "authors": [
+   "Yingchaojie Feng",
+   "Xingbo Wang",
+   "Bo Pan",
+   "Kam Kwai Wong",
+   "Yi Ren",
+   "Shi Liu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "PIDSMaker: Building and Evaluating Provenance-based Intrusion Detection Systems",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2601.22983v2",
+  "cited_by": null,
+  "abstract": "Recent provenance-based intrusion detection systems (PIDSs) have demonstrated strong potential for detecting advanced persistent threats (APTs) by applying machine learning to system provenance graphs. However, evaluating and comparing PIDSs remains difficult: prior work uses inconsistent preprocessing pipelines, non-standard dataset splits, and incompatible ground-truth labeling and metrics. These discrepancies undermine reproducibility, impede fair comparison, and impose substantial re-implementation overhead on researchers. We present PIDSMaker, an open-source framework for developing and e",
+  "authors": [
+   "Tristan Bilot",
+   "Baoxiang Jiang",
+   "Thomas Pasquier"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "SuperProvenanceWidgets: Tracking and Visualizing Analytic Provenance Across UI Control Elements",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2604.15342v1",
+  "cited_by": null,
+  "abstract": "ProvenanceWidgets is an existing JavaScript library that tracks the recency and frequency of user interactions with individual UI controls (e.g., range sliders and dropdowns) and dynamically overlays this provenance onto them. In this work, we introduce SuperProvenanceWidgets, an extension to ProvenanceWidgets featuring a new SuperWidget that similarly tracks and visualizes provenance but across multiple UI controls, enabling users to understand how, when, and whether different UI controls were used. Through three example usage scenarios, we demonstrate how this cross-control SuperWidget helps",
+  "authors": [
+   "Antariksh Verma",
+   "Kaustubh Odak",
+   "Arpit Narechania"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "VizGenie: Toward Self-Refining, Domain-Aware Workflows for Next-Generation Scientific Visualization",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2507.21124v1",
+  "cited_by": null,
+  "abstract": "We present VizGenie, a self-improving, agentic framework that advances scientific visualization through large language model (LLM) by orchestrating of a collection of domain-specific and dynamically generated modules. Users initially access core functionalities--such as threshold-based filtering, slice extraction, and statistical analysis--through pre-existing tools. For tasks beyond this baseline, VizGenie autonomously employs LLMs to generate new visualization scripts (e.g., VTK Python code), expanding its capabilities on-demand. Each generated script undergoes automated backend validation a",
+  "authors": [
+   "Ayan Biswas",
+   "Terece L. Turton",
+   "Nishath Rajiv Ranasinghe",
+   "Shawn Jones",
+   "Bradley Love",
+   "William Jones"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Figures as Interfaces: Toward LLM-Native Artifacts for Scientific Discovery",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2604.08491v2",
+  "cited_by": null,
+  "abstract": "Large language models (LLMs) are transforming scientific workflows, not only through their generative capabilities but also through their emerging ability to use tools, reason about data, and coordinate complex analytical tasks. Yet in most human-AI collaborations, the primary outputs, figures, are still treated as static visual summaries: once rendered, they are handled by both humans and multimodal LLMs as images to be re-interpreted from pixels or captions. The emergent capabilities of LLMs open an opportunity to fundamentally rethink this paradigm. In this paper, we introduce the concept o",
+  "authors": [
+   "Yifang Wang",
+   "Rui Sheng",
+   "Erzhuo Shao",
+   "Yifan Qian",
+   "Haotian Li",
+   "Nan Cao"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Co-Designing a Knowledge Graph Navigation Interface: A Participatory Approach",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2505.00907v1",
+  "cited_by": null,
+  "abstract": "Navigating and visualizing multilayered knowledge graphs remains a challenging, unresolved problem in information systems design. Building on our earlier study, which engaged end users in both the design and population of a domain-specific knowledge graph, we now focus on translating their insights into actionable interface guidelines. In this paper, we synthesize recommendations drawn from a participatory workshop with doctoral students. We then demonstrate how these recommendations inform the design of a prototype interface. Finally, we found that a participatory iterative design approach ca",
+  "authors": [
+   "Stanislava Gardasevic",
+   "Manika Lamba",
+   "Jasmine S. Malone"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.27363v1",
+  "cited_by": null,
+  "abstract": "Camera localization in a prior LiDAR map provides a persistent geometric reference for long-term robotic navigation, yet remains challenging because of the substantial modality gap between camera images and point-cloud maps. We present a unified localization framework that makes the LiDAR map visually addressable rather than relying on a dedicated image-LiDAR correspondence model. Map geometry and reflectivity are rendered into LiDAR-derived quasi-images with explicit 2D-3D provenance, enabling camera observations and rendered map views to share mature visual features and matchers for both glo",
+  "authors": [
+   "Wentao Zhao",
+   "Zikun Chen",
+   "Yihe Niu",
+   "Haoyu Chen",
+   "Jingchuan Wang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "DataMagic: Transforming Tabular Data into Data Insight Video",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2606.20388v1",
+  "cited_by": null,
+  "abstract": "Data videos integrate dynamic charts, voice narration, and synchronized animations to communicate data insights as temporal narratives, making them an effective medium for improving data consumption efficiency in the data management lifecycle. However, producing high-quality data videos requires expertise spanning data analysis, narrative design, and video production. Existing approaches fall short: static visualization tools (e.g., BI dashboards) lack narrative logic and animation; authoring tools require users to pre-prepare visualizations rather than working from raw data; pixel-level video",
+  "authors": [
+   "Yupeng Xie",
+   "Chen Ma",
+   "Zhenyang Wang",
+   "Liangwei Wang",
+   "Jiayi Zhu",
+   "Chuxuan Zeng"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Sentifiers: Interpreting Vague Intent Modifiers in Visual Analysis using Word Co-occurrence and Sentiment Analysis",
+  "year": 2020,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2009.12701v1",
+  "cited_by": null,
+  "abstract": "Natural language interaction with data visualization tools often involves the use of vague subjective modifiers in utterances such as \"show me the sectors that are performing\" and \"where is a good neighborhood to buy a house?.\" Interpreting these modifiers is often difficult for these tools because their meanings lack clear semantics and are in part defined by context and personal user preferences. This paper presents a system called \\system that makes a first step in better understanding these vague predicates. The algorithm employs word co-occurrence and sentiment analysis to determine which",
+  "authors": [
+   "Vidya Setlur",
+   "Arathi Kumar"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Narrative Scaffolding: A Narrative-First Framework for Data-Driven Sensemaking",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2512.18920v2",
+  "cited_by": null,
+  "abstract": "When exploring data, analysts construct narratives about what the data means by asking questions, generating visualizations, reflecting on patterns, and revising their interpretations as new insights emerge. Yet existing analysis tools treat narrative as an afterthought, breaking the link between reasoning, reflection, and the evolving story from exploration. Consequently, analysts lose the ability to see how their reasoning evolves, making it harder to reflect systematically or build coherent explanations. To address this gap, we propose Narrative Scaffolding, a framework for narrative-driven",
+  "authors": [
+   "Oliver Huang",
+   "Muhammad Fatir",
+   "Steven Luo",
+   "Sangho Suh",
+   "Hariharan Subramonyam",
+   "Carolina Nobre"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "S3Mem: Structured Spatiotemporal Scene-Event Memory for Long-Horizon Interactive Question Answering",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2605.28831v2",
+  "cited_by": null,
+  "abstract": "Long-horizon memory question answering often requires sparse evidence from heterogeneous histories, including events, object states, visual observations, temporal relations, and causal steps. Existing memory interfaces expand reader context, retrieve semantically related chunks, or expose graph neighborhoods, but they are not explicitly designed to select compact evidence for a fixed reader. We propose Structured Spatiotemporal Scene--Event Memory (S3Mem), a query-time memory interface that writes textual, visual, and agent-use histories into structured scene--event units and routes compact ev",
+  "authors": [
+   "Encheng Su",
+   "Jianyu Wu",
+   "Jinouwen Zhang",
+   "Qiucheng Yu",
+   "Chen Tang",
+   "Pengze Li"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Visualizing quantum phenomena at complex oxide interfaces: an atomic view from scanning transmission electron microscopy",
+  "year": 2021,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2104.13587v1",
+  "cited_by": null,
+  "abstract": "Complex oxide interfaces have been one of the central focuses in condensed matter physics and material science. Over the past decade, aberration corrected scanning transmission electron microscopy and spectroscopy has proven to be invaluable to visualize and understand the emerging quantum phenomena at an interface. In this paper, we briefly review some recent progress in the utilization of electron microscopy to probe interfaces. Specifically, we discuss several important challenges for electron microscopy to advance our understanding on interface phenomena, from the perspective of variable t",
+  "authors": [
+   "Hangwen Guo",
+   "Mohammad Saghayezhian",
+   "Zhen Wang",
+   "Yimei Zhu",
+   "Jiandi Zhang",
+   "Ward Plummer"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "A Systematization of Security Vulnerabilities in Computer Use Agents",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2507.05445v1",
+  "cited_by": null,
+  "abstract": "Computer Use Agents (CUAs), autonomous systems that interact with software interfaces via browsers or virtual machines, are rapidly being deployed in consumer and enterprise environments. These agents introduce novel attack surfaces and trust boundaries that are not captured by traditional threat models. Despite their growing capabilities, the security boundaries of CUAs remain poorly understood. In this paper, we conduct a systematic threat analysis and testing of real-world CUAs under adversarial conditions. We identify seven classes of risks unique to the CUA paradigm, and analyze three con",
+  "authors": [
+   "Daniel Jones",
+   "Giorgio Severi",
+   "Martin Pouliot",
+   "Gary Lopez",
+   "Joris de Gruyter",
+   "Santiago Zanella-Beguelin"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Leam: An Interactive System for In-situ Visual Text Analysis",
+  "year": 2020,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2009.03520v1",
+  "cited_by": null,
+  "abstract": "With the increase in scale and availability of digital text generated on the web, enterprises such as online retailers and aggregators often use text analytics to mine and analyze the data to improve their services and products alike. Text data analysis is an iterative, non-linear process with diverse workflows spanning multiple stages, from data cleaning to visualization. Existing text analytics systems usually accommodate a subset of these stages and often fail to address challenges related to data heterogeneity, provenance, workflow reusability and reproducibility, and compatibility with es",
+  "authors": [
+   "Sajjadur Rahman",
+   "Peter Griggs",
+   "\u00c7a\u011fatay Demiralp"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Signals of AI Hallucination: Designing Hallucination-Aware Cues for Embodied Conversational Agents in VR",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.28812v1",
+  "cited_by": null,
+  "abstract": "LLM-powered conversational agents (CAs) often present uncertainty and provenance cues alongside their responses to help users assess response reliability and identify potential hallucinations. In immersive environments such as Virtual Reality (VR), CAs often take the form of speech-based embodied conversational agents (ECAs), where uncertainty and provenance cues cannot rely on persistent inline text and may be missed or disrupt comprehension when delivered through speech. We conducted a within-subjects study (N = 24) to compare three designs for presenting the hallucination-awareness informat",
+  "authors": [
+   "Xiaoran Yang",
+   "Yang Zhan",
+   "Xie He",
+   "Yuxuan Huang",
+   "Yichen Yu",
+   "Zhuo Wang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.03153v1",
+  "cited_by": null,
+  "abstract": "Visual fluency in generated video does not imply physical reliability, and a scalar quality score alone is incapable of indicating the obligation a clip violates or the moment it fails. We present VeriPhy, an auditable physical-verification system in which a text-only planner compiles the prompt into typed physical obligations and a statically validated execution plan before any frame is observed. During execution, observations gate and scope only declared calls to frozen low-level experts (e.g., segmentation and tracking, counting, eleven typed physical measurements over the resulting tracks,",
+  "authors": [
+   "Wenzhuo Xu",
+   "Yuchen Zhu",
+   "Chongjian Ge",
+   "Xuan Shen",
+   "Jing Shi",
+   "Jason Kuen"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2408.03274v1",
+  "cited_by": null,
+  "abstract": "To deploy machine learning models on-device, practitioners use compression algorithms to shrink and speed up models while maintaining their high-quality output. A critical aspect of compression in practice is model comparison, including tracking many compression experiments, identifying subtle changes in model behavior, and negotiating complex accuracy-efficiency trade-offs. However, existing compression tools poorly support comparison, leading to tedious and, sometimes, incomplete analyses spread across disjoint tools. To support real-world comparative workflows, we develop an interactive vis",
+  "authors": [
+   "Angie Boggust",
+   "Venkatesh Sivaraman",
+   "Yannick Assogba",
+   "Donghao Ren",
+   "Dominik Moritz",
+   "Fred Hohman"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "SciFigure2Code: An AI-Reconstructed Benchmark for Scientific Figure-to-Code",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2609.08155v1",
+  "cited_by": null,
+  "abstract": "Scientific figures are the interface through which research claims are inspected and reused, but final published panels rarely expose the data or plotting code that produced them. Recovering this hidden provenance from pixels is therefore underdetermined. We introduce SciFigure2Code, an AI-reconstructed benchmark that instead evaluates presentation recovery: generating editable Python programs that preserve how a scientific panel is arranged and read. Role-specialized Codex agents generate, execute, visually refine, and audit silver-standard presentation programs that capture geometry, visual ",
+  "authors": [
+   "Wentao Li",
+   "Yibo Wu",
+   "Yizhe Chen",
+   "Ruixuan Chen",
+   "Jiangjie Qiu",
+   "Yijun Li"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Brain-Computer Interfaces: Investigating the Transition from Visually Evoked to Purely Imagined Steady-State Potentials",
+  "year": 2022,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2204.11503v1",
+  "cited_by": null,
+  "abstract": "Brain-Computer Interfaces (BCIs) based on Steady State Visually Evoked Potentials (SSVEPs) have proven effective and provide significant accuracy and information-transfer rates. This family of strategies, however, requires external devices that provide the frequency stimuli required by the technique. This limits the scenarios in which they can be applied, especially when compared to other BCI approaches. In this work, we have investigated the possibility of obtaining frequency responses in the EEG output based on the pure visual imagination of SSVEP-eliciting stimuli. Our results show that not",
+  "authors": [
+   "Arturo Micheli",
+   "Davide Consoli",
+   "Adrien Merlini",
+   "Paolo Ricci",
+   "Francesco P. Andriulli"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Curio: A Dataflow-Based Framework for Collaborative Urban Visual Analytics",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2408.06139v1",
+  "cited_by": null,
+  "abstract": "Over the past decade, several urban visual analytics systems and tools have been proposed to tackle a host of challenges faced by cities, in areas as diverse as transportation, weather, and real estate. Many of these tools have been designed through collaborations with urban experts, aiming to distill intricate urban analysis workflows into interactive visualizations and interfaces. However, the design, implementation, and practical use of these tools still rely on siloed approaches, resulting in bespoke applications that are difficult to reproduce and extend. At the design level, these tools ",
+  "authors": [
+   "Gustavo Moreira",
+   "Maryam Hosseini",
+   "Carolina Veiga",
+   "Lucas Alexandre",
+   "Nicola Colaninno",
+   "Daniel de Oliveira"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Visual Analytics for Efficient Image Exploration and User-Guided Image Captioning",
+  "year": 2023,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2311.01016v1",
+  "cited_by": null,
+  "abstract": "Recent advancements in pre-trained large-scale language-image models have ushered in a new era of visual comprehension, offering a significant leap forward. These breakthroughs have proven particularly instrumental in addressing long-standing challenges that were previously daunting. Leveraging these innovative techniques, this paper tackles two well-known issues within the realm of visual analytics: (1) the efficient exploration of large-scale image datasets and identification of potential data biases within them; (2) the evaluation of image captions and steering of their generation process. ",
+  "authors": [
+   "Yiran Li",
+   "Junpeng Wang",
+   "Prince Aboagye",
+   "Michael Yeh",
+   "Yan Zheng",
+   "Liang Wang"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2502.08848v2",
+  "cited_by": null,
+  "abstract": "Speech-to-text capabilities on mobile devices have proven helpful for hearing and speech accessibility, language translation, note-taking, and meeting transcripts. However, our foundational large-scale survey (n=263) shows that the inability to distinguish and indicate speaker direction makes them challenging in group conversations. SpeechCompass addresses this limitation through real-time, multi-microphone speech localization, where the direction of speech allows visual separation and guidance (e.g., arrows) in the user interface. We introduce efficient real-time audio localization algorithms",
+  "authors": [
+   "Artem Dementyev",
+   "Dimitri Kanevsky",
+   "Samuel J. Yang",
+   "Mathieu Parvaix",
+   "Chiong Lai",
+   "Alex Olwal"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "Soft or Stiff? Stroop Tasks in Visuo-Tactile Tapping Interactions",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2411.05163v1",
+  "cited_by": null,
+  "abstract": "One of the key challenges in the field of haptic research is designing plausible stimuli using haptic interfaces with limited degrees of freedom. Although the plausible approach, which simplifies and/or exaggerates stimuli to enhance information transfer or create an artistic effect, has proven effective, evaluations of such stimuli have traditionally relied on subjective measures. This study aims to establish an objective evaluation method for haptic stimuli designed using the plausible approach. Focusing on stiffness/material perception, we developed a Stroop test within visuo-tactile tappin",
+  "authors": [
+   "Ryotaro Ishikawa",
+   "Taku Hachisu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "audit_ui",
+  "query": "abs:\"provenance\" AND abs:\"visualization\" AND abs:\"interface\"",
+  "title": "\"What Did It Actually Do?\": Understanding Risk Awareness and Traceability for Computer-Use Agents",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2603.28551v2",
+  "cited_by": null,
+  "abstract": "Personalized computer-use agents are rapidly moving from expert communities into mainstream use. Unlike conventional chatbots, these systems can install skills, invoke tools, access private resources, and modify local environments on users' behalf. Yet users often do not know what authority they have delegated, what the agent actually did during task execution, or whether the system has been safely removed afterward. We investigate this gap as a combined problem of risk understanding and post-hoc auditability, using OpenClaw as a motivating case. We first build a multi-source corpus of the Ope",
+  "authors": [
+   "Zifan Peng",
+   "Mingchen Li"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "reactive",
+  "query": "abs:\"reactive programming\" AND abs:\"user interface\"",
+  "title": "Meerkat: A Distributed Reactive Programming Language with Live Updates",
+  "year": 2024,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2407.06885v1",
+  "cited_by": null,
+  "abstract": "We propose a novel type-safe reactive programming language with live updates that extends an existing work to support multiple distributed evolution queues. Dependency sets of definitions are incorporated in the type system to protect the interaction between the frontend user interface and the backend database. Distributed live updates submitted by multiple programmers are ensured strong consistency based on an existing framework for distributed reactive propagation.",
+  "authors": [
+   "Heng Zhong",
+   "Anrui Liu"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "reactive",
+  "query": "abs:\"reactive programming\" AND abs:\"user interface\"",
+  "title": "A Type-and-Effect System for Temporal Dependency Analysis of Render-based Reactive Programs",
+  "year": 2026,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2607.27074v1",
+  "cited_by": null,
+  "abstract": "Reactive programming frameworks such as React allow developers to build interactive applications by declaratively specifying how outputs depend on changing inputs. Although this model makes it easy to reason about what an application computes, the temporal behavior of reactive programs remains difficult to understand and verify. Applications implicitly rely on timing assumptions buried in framework runtimes, leading to subtle bugs such as stale reads, transient inconsistencies, order-dependent behavior, and unintended feedback cycles. To address these challenges, this paper presents Willow, a ",
+  "authors": [
+   "June Wunder",
+   "Ankush Das",
+   "Marco Gaboardi"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "reactive",
+  "query": "abs:\"reactive programming\" AND abs:\"user interface\"",
+  "title": "Adjoint Reactive GUI",
+  "year": 2020,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2010.12338v2",
+  "cited_by": null,
+  "abstract": "Most interaction with a computer is done via a graphical user interface. Traditionally, these are implemented in an imperative fashion using shared mutable state and callbacks. This is efficient, but is also difficult to reason about and error prone. Functional Reactive Programming (FRP) provides an elegant alternative which allows GUIs to be designed in a declarative fashion. However, most FRP languages are synchronous and continually check for new data. This means that an FRP-style GUI will \"wake up\" on each program cycle. This is problematic for applications like text editors and browsers, ",
+  "authors": [
+   "Christian Uldal Graulund",
+   "Dmitrij Szamozvancev",
+   "Neel Krishnaswami"
+  ]
+ },
+ {
+  "source": "arxiv",
+  "theme": "reactive",
+  "query": "abs:\"reactive programming\" AND abs:\"user interface\"",
+  "title": "Design, Implementation and Evaluation of a Real-Time Remote Photoplethysmography (rPPG) Acquisition System for Non-Invasive Vital Sign Monitoring",
+  "year": 2025,
+  "venue": "arXiv",
+  "doi": "",
+  "arxiv": "2508.18787v1",
+  "cited_by": null,
+  "abstract": "The growing integration of smart environments and low-power computing devices, coupled with mass-market sensor technologies, is driving advancements in remote and non-contact physiological monitoring. However, deploying these systems in real-time on resource-constrained platforms introduces significant challenges related to scalability, interoperability, and performance. This paper presents a real-time remote photoplethysmography (rPPG) system optimized for low-power devices, designed to extract physiological signals, such as heart rate (HR), respiratory rate (RR), and oxygen saturation (SpO2)",
+  "authors": [
+   "Constantino \u00c1lvarez Casado",
+   "Sasan Sharifipour",
+   "Manuel Lage Ca\u00f1ellas",
+   "Nhi Nguyen",
+   "Le Nguyen",
+   "Miguel Bordallo L\u00f3pez"
+  ]
+ }
+]

@@ -1,0 +1,892 @@
+{
+ "satyanarayan2017vegalite": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/tvcg.2016.2599030"
+  },
+  "rec": {
+   "title": "Vega-Lite: A Grammar of Interactive Graphics",
+   "year": 2016,
+   "authors": [
+    "Arvind Satyanarayan",
+    "Dominik Moritz",
+    "Kanit Wongsuphasawat",
+    "Jeffrey Michael Heer"
+   ],
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "doi": "10.1109/tvcg.2016.2599030",
+   "arxiv": null,
+   "cited_by": 875,
+   "source": "openalex"
+  }
+ },
+ "vanderplas2018altair": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.21105/joss.01057"
+  },
+  "rec": {
+   "title": "Altair: Interactive Statistical Visualizations for Python",
+   "year": 2018,
+   "authors": [
+    "Jake Vanderplas",
+    "Brian Granger",
+    "Jeffrey Michael Heer",
+    "Dominik Moritz",
+    "Kanit Wongsuphasawat",
+    "Arvind Satyanarayan",
+    "Eitan Lees",
+    "Ilia Timofeev"
+   ],
+   "venue": "The Journal of Open Source Software",
+   "doi": "10.21105/joss.01057",
+   "arxiv": null,
+   "cited_by": 219,
+   "source": "openalex"
+  }
+ },
+ "li2020gotree": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3313831.3376297"
+  },
+  "rec": {
+   "title": "GoTree: A Grammar of Tree Visualizations",
+   "year": 2020,
+   "authors": [
+    "Guozheng Li",
+    "Min Tian",
+    "Qinmei Xu",
+    "Michael J. McGuffin",
+    "Xiaoru Yuan"
+   ],
+   "venue": "CHI Conference on Human Factors in Computing Systems",
+   "doi": "10.1145/3313831.3376297",
+   "arxiv": null,
+   "cited_by": 44,
+   "source": "openalex"
+  }
+ },
+ "kim2022cicero": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3491102.3517455"
+  },
+  "rec": {
+   "title": "Cicero: A Declarative Grammar for Responsive Visualization",
+   "year": 2022,
+   "authors": [
+    "Hyeok Kim",
+    "Ryan A. Rossi",
+    "Fan Du",
+    "Eunyee Koh",
+    "Shunan Guo",
+    "Jessica R. Hullman",
+    "Jane Hoffswell"
+   ],
+   "venue": "CHI Conference on Human Factors in Computing Systems",
+   "doi": "10.1145/3491102.3517455",
+   "arxiv": null,
+   "cited_by": 22,
+   "source": "openalex"
+  }
+ },
+ "liu2021atlas": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/vis49827.2021.9623315"
+  },
+  "rec": {
+   "title": "Atlas: Grammar-based Procedural Generation of Data Visualizations",
+   "year": 2021,
+   "authors": [
+    "Zhicheng Liu",
+    "Chen Chen",
+    "Francisco Morales",
+    "Yishan Zhao"
+   ],
+   "venue": "IEEE Visualization Conference (VIS)",
+   "doi": "10.1109/vis49827.2021.9623315",
+   "arxiv": null,
+   "cited_by": 17,
+   "source": "openalex"
+  }
+ },
+ "annogram2025": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/vis60296.2025.00053"
+  },
+  "rec": {
+   "title": "AnnoGram: An Annotative Grammar of Graphics Extension",
+   "year": 2025,
+   "authors": [
+    "Md Dilshadur Rahman",
+    "Md Rahat-Uz-Zaman",
+    "Andrew McNutt",
+    "Paul Rosen"
+   ],
+   "venue": "IEEE Visualization and Visual Analytics (VIS)",
+   "doi": "10.1109/vis60296.2025.00053",
+   "arxiv": null,
+   "cited_by": 5,
+   "source": "openalex"
+  }
+ },
+ "dibia2019data2vis": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/mcg.2019.2924636"
+  },
+  "rec": {
+   "title": "Data2Vis: Automatic Generation of Data Visualizations Using Sequence-to-Sequence Recurrent Neural Networks",
+   "year": 2019,
+   "authors": [
+    "Victor C. Dibia",
+    "\u00c7a\u011fatay Demiralp"
+   ],
+   "venue": "IEEE Computer Graphics and Applications",
+   "doi": "10.1109/mcg.2019.2924636",
+   "arxiv": null,
+   "cited_by": 217,
+   "source": "openalex"
+  }
+ },
+ "narechania2020nl4dv": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/tvcg.2020.3030378"
+  },
+  "rec": {
+   "title": "NL4DV: A Toolkit for Generating Analytic Specifications for Data Visualization from Natural Language Queries",
+   "year": 2020,
+   "authors": [
+    "Arpit Ajay Narechania",
+    "Arjun Srinivasan",
+    "John Stasko"
+   ],
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "doi": "10.1109/tvcg.2020.3030378",
+   "arxiv": null,
+   "cited_by": 209,
+   "source": "openalex"
+  }
+ },
+ "wang2023dataformulator": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/tvcg.2023.3326585"
+  },
+  "rec": {
+   "title": "Data Formulator: AI-powered Concept-driven Visualization Authoring",
+   "year": 2023,
+   "authors": [
+    "Chenglong Wang",
+    "John Thompson",
+    "Bongshin Lee"
+   ],
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "doi": "10.1109/tvcg.2023.3326585",
+   "arxiv": null,
+   "cited_by": 34,
+   "source": "openalex"
+  }
+ },
+ "wang2024dataformulator2": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2408.16119"
+  },
+  "rec": {
+   "title": "Data Formulator 2: Iterative Creation of Data Visualizations, with AI Transforming Data Along the Way",
+   "year": "2024",
+   "authors": [
+    "Chenglong Wang",
+    "Bongshin Lee",
+    "Steven Drucker",
+    "Dan Marshall",
+    "Jianfeng Gao"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2408.16119",
+   "arxiv": "2408.16119",
+   "source": "arxiv"
+  }
+ },
+ "dibia2023lida": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.18653/v1/2023.acl-demo.11"
+  },
+  "rec": {
+   "title": "LIDA: A Tool for Automatic Generation of Grammar-Agnostic Visualizations and Infographics using Large Language Models",
+   "year": 2023,
+   "authors": [
+    "Victor C. Dibia"
+   ],
+   "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+   "doi": "10.18653/v1/2023.acl-demo.11",
+   "arxiv": null,
+   "cited_by": 115,
+   "source": "openalex"
+  }
+ },
+ "datatales2023": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/vis54172.2023.00055"
+  },
+  "rec": {
+   "title": "DATATALES: Investigating the use of Large Language Models for Authoring Data-Driven Articles",
+   "year": 2023,
+   "authors": [
+    "Nicole Sultanum",
+    "Arjun Srinivasan"
+   ],
+   "venue": "IEEE Visualization and Visual Analytics (VIS)",
+   "doi": "10.1109/vis54172.2023.00055",
+   "arxiv": null,
+   "cited_by": 51,
+   "source": "openalex"
+  }
+ },
+ "chen2025geninterfaces": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2508.19227"
+  },
+  "rec": {
+   "title": "Generative Interfaces for Language Models",
+   "year": "2025",
+   "authors": [
+    "Jiaqi Chen",
+    "Yanzhe Zhang",
+    "Yutong Zhang",
+    "Yijia Shao",
+    "Diyi Yang"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2508.19227",
+   "arxiv": "2508.19227",
+   "source": "arxiv"
+  }
+ },
+ "lee2025guidef": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3715668.3736365"
+  },
+  "rec": {
+   "title": "Towards a Working Definition of Designing Generative User Interfaces",
+   "year": 2025,
+   "authors": [
+    "Kyungho Lee"
+   ],
+   "venue": "ACM Designing Interactive Systems Conference (DIS)",
+   "doi": "10.1145/3715668.3736365",
+   "arxiv": null,
+   "cited_by": 17,
+   "source": "openalex"
+  }
+ },
+ "peng2026guipers": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2604.09876"
+  },
+  "rec": {
+   "title": "Efficient Personalization of Generative User Interfaces",
+   "year": "2026",
+   "authors": [
+    "Yi-Hao Peng",
+    "Jeffrey P. Bigham",
+    "Jason Wu"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2604.09876",
+   "arxiv": "2604.09876",
+   "source": "arxiv"
+  }
+ },
+ "legoui2026": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2608.04293"
+  },
+  "rec": {
+   "title": "LEGOUI: Designing with UI-DSL Bricks to Balance Transparency and Controllability",
+   "year": "2026",
+   "authors": [
+    "Yinsi Zhou",
+    "Mingyue Yuan",
+    "Hongyue Xu",
+    "Jieshan Chen",
+    "Dong Wen",
+    "Shidong Pan",
+    "Xiwei Xu",
+    "Wenjie Zhang"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2608.04293",
+   "arxiv": "2608.04293",
+   "source": "arxiv"
+  }
+ },
+ "xie2026swcontent": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2603.21334"
+  },
+  "rec": {
+   "title": "Software as Content: Dynamic Applications as the Human-Agent Interaction Layer",
+   "year": "2026",
+   "authors": [
+    "Mulong Xie",
+    "Yang Xie"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2603.21334",
+   "arxiv": "2603.21334",
+   "source": "arxiv"
+  }
+ },
+ "bespoke2024": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3686215.3688372"
+  },
+  "rec": {
+   "title": "Bespoke: Using LLM agents to generate just-in-time interfaces by reasoning about user intent",
+   "year": 2024,
+   "authors": [
+    "Palash Nandy",
+    "Sigur\u0111ur \u00d6rn A\u0111algeirsson",
+    "Anoop K. Sinha",
+    "Tanya Kraljic A",
+    "Mike Cleron",
+    "Lei Shi",
+    "Angad Singh",
+    "Ashish Chaudhary"
+   ],
+   "venue": null,
+   "doi": "10.1145/3686215.3688372",
+   "arxiv": null,
+   "cited_by": 6,
+   "source": "openalex"
+  }
+ },
+ "viseval2024": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/tvcg.2024.3456320"
+  },
+  "rec": {
+   "title": "VisEval: A Benchmark for Data Visualization in the Era of Large Language Models",
+   "year": 2024,
+   "authors": [
+    "Nan Chen",
+    "Yuge Zhang",
+    "Jiahang Xu",
+    "Kan Ren",
+    "Yuqing Yang"
+   ],
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "doi": "10.1109/tvcg.2024.3456320",
+   "arxiv": null,
+   "cited_by": 49,
+   "source": "openalex"
+  }
+ },
+ "vizgeneval2024": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2401.11255"
+  },
+  "rec": {
+   "title": "Visualization Generation with Large Language Models: An Evaluation",
+   "year": "2024",
+   "authors": [
+    "Xinyu Wang",
+    "Chenwei Liang",
+    "Shunyuan Zheng",
+    "Jinyuan Liang",
+    "Guozheng Li",
+    "Yu Zhang",
+    "Chi Harold Liu"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2401.11255",
+   "arxiv": "2401.11255",
+   "source": "arxiv"
+  }
+ },
+ "ross2023assistant": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3581641.3584037"
+  },
+  "rec": {
+   "title": "The Programmer\u2019s Assistant: Conversational Interaction with a Large Language Model for Software Development",
+   "year": 2023,
+   "authors": [
+    "Steven Ross",
+    "Fernando Martinez",
+    "Stephanie Houde",
+    "Michael J. Muller",
+    "Justin D. Weisz"
+   ],
+   "venue": "ACM International Conference on Intelligent User Interfaces (IUI)",
+   "doi": "10.1145/3581641.3584037",
+   "arxiv": null,
+   "cited_by": 260,
+   "source": "openalex"
+  }
+ },
+ "liu2018dataillustrator": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3173574.3173697"
+  },
+  "rec": {
+   "title": "Data Illustrator",
+   "year": 2018,
+   "authors": [
+    "Zhicheng Liu",
+    "John Thompson",
+    "Alan Wilson",
+    "Mira Dontcheva",
+    "James Delorey",
+    "Sam E. Grigg",
+    "Bernard Kerr",
+    "John Stasko"
+   ],
+   "venue": "CHI Conference on Human Factors in Computing Systems",
+   "doi": "10.1145/3173574.3173697",
+   "arxiv": null,
+   "cited_by": 154,
+   "source": "openalex"
+  }
+ },
+ "zong2020lyra2": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/tvcg.2020.3030367"
+  },
+  "rec": {
+   "title": "Lyra 2: Designing Interactive Visualizations by Demonstration",
+   "year": 2020,
+   "authors": [
+    "Jonathan Zong",
+    "Dhiraj Barnwal",
+    "Rupayan Neogy",
+    "Arvind Satyanarayan"
+   ],
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "doi": "10.1109/tvcg.2020.3030367",
+   "arxiv": null,
+   "cited_by": 48,
+   "source": "openalex"
+  }
+ },
+ "structgraphics2020": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/tvcg.2020.3030476"
+  },
+  "rec": {
+   "title": "StructGraphics: Flexible Visualization Design through Data-Agnostic and Reusable Graphical Structures",
+   "year": 2020,
+   "authors": [
+    "Theophanis Tsandilas"
+   ],
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "doi": "10.1109/tvcg.2020.3030476",
+   "arxiv": null,
+   "cited_by": 26,
+   "source": "openalex"
+  }
+ },
+ "directvis2026": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/pacificvis68791.2026.00014"
+  },
+  "rec": {
+   "title": "DirectVis: Editing Code-Based Interactive Visualization with Direct Manipulation",
+   "year": 2026,
+   "authors": [
+    "Jeongin Park",
+    "Mingyu An",
+    "H Yang",
+    "Junhyeong Hwangbo",
+    "Min Hyeong Kim",
+    "Hyeon Jeon",
+    "Jinwook Seo"
+   ],
+   "venue": "IEEE Pacific Visualization Conference (PacificVis)",
+   "doi": "10.1109/pacificvis68791.2026.00014",
+   "arxiv": null,
+   "cited_by": 0,
+   "source": "openalex"
+  }
+ },
+ "nlvkgedit2025": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3731443.3771344"
+  },
+  "rec": {
+   "title": "Natural Language Interaction for Editing Visual Knowledge Graphs",
+   "year": 2025,
+   "authors": [
+    "Reza Shahriari",
+    "Eric D. Ragan",
+    "Jaime Ruiz"
+   ],
+   "venue": "ACM International Conference on Knowledge Capture (K-CAP)",
+   "doi": "10.1145/3731443.3771344",
+   "arxiv": null,
+   "cited_by": 1,
+   "source": "openalex"
+  }
+ },
+ "conlen2018idyll": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3242587.3242600"
+  },
+  "rec": {
+   "title": "Idyll",
+   "year": 2018,
+   "authors": [
+    "Matthew Conlen",
+    "Jeffrey Michael Heer"
+   ],
+   "venue": "ACM Symposium on User Interface Software and Technology (UIST)",
+   "doi": "10.1145/3242587.3242600",
+   "arxiv": null,
+   "cited_by": 72,
+   "source": "openalex"
+  }
+ },
+ "hoque2024hallmark": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3613904.3641895"
+  },
+  "rec": {
+   "title": "The HaLLMark Effect: Supporting Provenance and Transparent Use of Large Language Models in Writing with Interactive Visualization",
+   "year": 2024,
+   "authors": [
+    "Md Naimul Hoque",
+    "Tasfia Mashiat",
+    "Bhavya Ghai",
+    "Cecilia D. Shelton",
+    "Fanny Chevalier",
+    "Kari Kraus",
+    "Niklas Elmqvist"
+   ],
+   "venue": "CHI Conference on Human Factors in Computing Systems",
+   "doi": "10.1145/3613904.3641895",
+   "arxiv": null,
+   "cited_by": 48,
+   "source": "openalex"
+  }
+ },
+ "gao2023alce": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2305.14627"
+  },
+  "rec": {
+   "title": "Enabling Large Language Models to Generate Text with Citations",
+   "year": "2023",
+   "authors": [
+    "Tianyu Gao",
+    "Howard Yen",
+    "Jiatong Yu",
+    "Danqi Chen"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2305.14627",
+   "arxiv": "2305.14627",
+   "source": "arxiv"
+  }
+ },
+ "min2023factscore": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2305.14251"
+  },
+  "rec": {
+   "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+   "year": "2023",
+   "authors": [
+    "Sewon Min",
+    "Kalpesh Krishna",
+    "Xinxi Lyu",
+    "Mike Lewis",
+    "Wen-tau Yih",
+    "Pang Wei Koh",
+    "Mohit Iyyer",
+    "Luke Zettlemoyer"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2305.14251",
+   "arxiv": "2305.14251",
+   "source": "arxiv"
+  }
+ },
+ "hullman2019uncertainty": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/tvcg.2019.2934287"
+  },
+  "rec": {
+   "title": "Why Authors Don't Visualize Uncertainty",
+   "year": 2019,
+   "authors": [
+    "Jessica R. Hullman"
+   ],
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "doi": "10.1109/tvcg.2019.2934287",
+   "arxiv": null,
+   "cited_by": 177,
+   "source": "openalex"
+  }
+ },
+ "provdensity2026": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.24963/ijcai.2026/857"
+  },
+  "rec": {
+   "title": "Beyond \u201cMade with AI\u201d: Visualizing Provenance Density to Mitigate the Transparency Penalty",
+   "year": 2026,
+   "authors": [
+    "Qing Zhang",
+    "Yifei Huang",
+    "Juyoung Lee",
+    "Thad E. Starner",
+    "Jun Rekimoto"
+   ],
+   "venue": "International Joint Conference on Artificial Intelligence",
+   "doi": "10.24963/ijcai.2026/857",
+   "arxiv": null,
+   "cited_by": 0,
+   "source": "openalex"
+  }
+ },
+ "graspableai2021": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3430524.3442704"
+  },
+  "rec": {
+   "title": "From \u201dExplainable AI\u201d to \u201dGraspable AI\u201d",
+   "year": 2021,
+   "authors": [
+    "Maliheh Ghajargar",
+    "Jeffrey Bardzell",
+    "Alison Smith-Renner",
+    "Peter Gall Krogh",
+    "Kristina H\u00f6\u00f6k",
+    "David J. Cuartielles",
+    "Laurens Boer",
+    "Mikael Wiberg"
+   ],
+   "venue": null,
+   "doi": "10.1145/3430524.3442704",
+   "arxiv": null,
+   "cited_by": 27,
+   "source": "openalex"
+  }
+ },
+ "illusion2021": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3397481.3450644"
+  },
+  "rec": {
+   "title": "I Think I Get Your Point, AI! The Illusion of Explanatory Depth in Explainable AI",
+   "year": 2021,
+   "authors": [
+    "Michael Chromik",
+    "Malin Eiband",
+    "Felicitas Buchner",
+    "Adrian Kr\u00fcger",
+    "Andreas Martin Butz"
+   ],
+   "venue": "ACM International Conference on Intelligent User Interfaces (IUI)",
+   "doi": "10.1145/3397481.3450644",
+   "arxiv": null,
+   "cited_by": 143,
+   "source": "openalex"
+  }
+ },
+ "xnli2023": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1109/tvcg.2023.3240003"
+  },
+  "rec": {
+   "title": "XNLI: Explaining and Diagnosing NLI-Based Visual Data Analysis",
+   "year": 2023,
+   "authors": [
+    "Yingchaojie Feng",
+    "Xingbo Wang",
+    "Bo Pan",
+    "Wong Kam-Kwai",
+    "Yi Cheng Ren",
+    "Shi Liu",
+    "Zihan Yan",
+    "Yuxin Ma"
+   ],
+   "venue": "IEEE Transactions on Visualization and Computer Graphics",
+   "doi": "10.1109/tvcg.2023.3240003",
+   "arxiv": null,
+   "cited_by": 31,
+   "source": "openalex"
+  }
+ },
+ "analyticprov2018": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1007/978-981-10-8612-0_66"
+  },
+  "rec": {
+   "title": "A Design Framework for Instrumenting Analytic Provenance for Problem-Solving Tasks",
+   "year": 2018,
+   "authors": [
+    "Lingxue Yang",
+    "Pierre Morizet\u2010Mahoudeaux",
+    "Anne Gu\u00e9nand",
+    "Assia Mouloudi"
+   ],
+   "venue": "Advances in intelligent systems and computing",
+   "doi": "10.1007/978-981-10-8612-0_66",
+   "arxiv": null,
+   "cited_by": 6597,
+   "source": "openalex"
+  }
+ },
+ "reactnbfail2025": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2511.21994"
+  },
+  "rec": {
+   "title": "When Do Reactive Notebooks Fail to React?",
+   "year": "2025",
+   "authors": [
+    "Yuchen Lu",
+    "Megan Zheng",
+    "Will Crichton",
+    "Akshay Narayan",
+    "Deepti Raghavan",
+    "Nikos Vasilakis"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2511.21994",
+   "arxiv": "2511.21994",
+   "source": "arxiv"
+  }
+ },
+ "glinda2021": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3411764.3445267"
+  },
+  "rec": {
+   "title": "Glinda: Supporting Data Science with Live Programming, GUIs and a Domain-specific Language",
+   "year": 2021,
+   "authors": [
+    "Robert A DeLine"
+   ],
+   "venue": "CHI Conference on Human Factors in Computing Systems",
+   "doi": "10.1145/3411764.3445267",
+   "arxiv": null,
+   "cited_by": 23,
+   "source": "openalex"
+  }
+ },
+ "ivm2018": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3183713.3183758"
+  },
+  "rec": {
+   "title": "Incremental View Maintenance with Triple Lock Factorization Benefits",
+   "year": 2018,
+   "authors": [
+    "Milo\u0161 Nikoli\u0107",
+    "Dan Olteanu"
+   ],
+   "venue": "Proceedings - ACM-SIGMOD International Conference on Management of Data",
+   "doi": "10.1145/3183713.3183758",
+   "arxiv": null,
+   "cited_by": 54,
+   "source": "openalex"
+  }
+ },
+ "fkivm2023": {
+  "status": "OK",
+  "spec": {
+   "doi": "10.1145/3588720"
+  },
+  "rec": {
+   "title": "Foreign Keys Open the Door for Faster Incremental View Maintenance",
+   "year": 2023,
+   "authors": [
+    "Christoforos Svingos",
+    "Andr\u00e9 Hernich",
+    "Hinnerk Gildhoff",
+    "Yannis Papakonstantinou D",
+    "Yannis Ioannidis"
+   ],
+   "venue": "Proceedings of the ACM on Management of Data",
+   "doi": "10.1145/3588720",
+   "arxiv": null,
+   "cited_by": 7,
+   "source": "openalex"
+  }
+ },
+ "meerkat2024": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2407.06885"
+  },
+  "rec": {
+   "title": "Meerkat: A Distributed Reactive Programming Language with Live Updates",
+   "year": "2024",
+   "authors": [
+    "Heng Zhong",
+    "Anrui Liu"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2407.06885",
+   "arxiv": "2407.06885",
+   "source": "arxiv"
+  }
+ },
+ "marimolens2026": {
+  "status": "OK",
+  "spec": {
+   "arxiv": "2609.19839"
+  },
+  "rec": {
+   "title": "Point, Revise, Review: Grounded Agentic Analysis in Reactive Notebooks with marimo-lens",
+   "year": "2026",
+   "authors": [
+    "P\u00e9ter Ferenc Gyarmati",
+    "Trevor Manz",
+    "Dominik Moritz",
+    "Mennatallah El-Assady"
+   ],
+   "venue": "arXiv",
+   "doi": "10.48550/arXiv.2609.19839",
+   "arxiv": "2609.19839",
+   "source": "arxiv"
+  }
+ }
+}

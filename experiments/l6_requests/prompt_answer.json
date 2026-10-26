@@ -1,0 +1,23 @@
+{
+  "request": "prompt_answer",
+  "dvr_spec": {
+    "spec": "dvr/1.0",
+    "id": "v_pa",
+    "kind": "list",
+    "title": {
+      "text": "Q&A"
+    },
+    "nodes": [
+      {
+        "id": "q",
+        "role": "label",
+        "text": "How much did we spend in Q3?"
+      },
+      {
+        "id": "a",
+        "role": "claim",
+        "binding_ref": "b_trend"
+      }
+    ]
+  }
+}

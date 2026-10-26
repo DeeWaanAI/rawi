@@ -1,0 +1,10 @@
+{
+  "frozen_at": "2026-10-19",
+  "files": {
+    "datasets/expenses/schema.json": "235d89a6c0d3b360a033c3405de74c454232ebadf37b4d3ed171e7625d864afa",
+    "datasets/expenses/data.jsonl": "1cb5f2ad614b683e2065ddcd482ea6da7515a6b646cf33e9edb1a4725c197341",
+    "bindings.jsonl": "8425a7a11944bf195e03c37ade08bc4c2ddcb34c13d8faaa35a984343f5d2542",
+    "views/v_exp.view.json": "53cae1a6adcaf82e13cfe116d5f10e9f26c62db30e78cd144e18ba2b55c32437",
+    "edit_script.json": "c24830cbfe8eb877e3d47d0b3ce3345f90020b3b9c9dd6c11d51af6c98d97245"
+  }
+}

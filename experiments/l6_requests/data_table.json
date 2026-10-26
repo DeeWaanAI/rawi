@@ -1,0 +1,23 @@
+{
+  "request": "data_table",
+  "dvr_spec": {
+    "spec": "dvr/1.0",
+    "id": "v_dt",
+    "kind": "table",
+    "columns": [
+      {
+        "id": "col:amount",
+        "label": "Amount",
+        "source_field": "amount"
+      }
+    ],
+    "nodes": [
+      {
+        "id": "cell:total_q3",
+        "role": "value",
+        "binding_ref": "b_tot_q3",
+        "column": "col:amount"
+      }
+    ]
+  }
+}

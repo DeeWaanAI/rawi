@@ -1,0 +1,15 @@
+{
+  "request": "claim_with_evidence",
+  "dvr_spec": {
+    "spec": "dvr/1.0",
+    "id": "v_ce",
+    "kind": "list",
+    "nodes": [
+      {
+        "id": "claim:trend",
+        "role": "claim",
+        "binding_ref": "b_trend"
+      }
+    ]
+  }
+}

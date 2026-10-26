@@ -1,0 +1,32 @@
+{
+  "requests": 6,
+  "expressible": 4,
+  "rate": 0.6667,
+  "per_request": {
+    "prompt_answer": {
+      "expressible": true,
+      "html_bytes": 414
+    },
+    "data_table": {
+      "expressible": true,
+      "html_bytes": 256
+    },
+    "claim_with_evidence": {
+      "expressible": true,
+      "html_bytes": 340
+    },
+    "action_confirmation": {
+      "expressible": false,
+      "gap": "requires an action element (approve/reject buttons emitting effects, not data edits) \u2014 Layer 3 territory; dvr/1.0 renders data, it does not act"
+    },
+    "memory_inspection": {
+      "expressible": true,
+      "html_bytes": 310
+    },
+    "connection_manager": {
+      "expressible": false,
+      "gap": "requires live status indicators and controls (connect, retry) bound to service state, not to dataset bindings"
+    }
+  },
+  "note": "gaps are Layer-3 action elements and live service controls; both are out of dvr/1.0 scope by design (spec \u00a78 non-goals)"
+}

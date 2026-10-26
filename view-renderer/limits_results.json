@@ -1,0 +1,56 @@
+{
+  "L1_round_trip": {
+    "edits": 100,
+    "gate_failures": 0,
+    "pass": true
+  },
+  "L2_stale_honesty": {
+    "silent_green": false,
+    "fail_shown": true,
+    "pass": true
+  },
+  "L3_shared_error": {
+    "note": "claim and data share the error -> agreement looks like verification; remedy is an upstream second anchor (cost, not software)",
+    "gate_exit": 0,
+    "semantic_flags": 0,
+    "caught": false,
+    "pass": true
+  },
+  "L4_scale": {
+    "curve": [
+      {
+        "nodes": 10,
+        "render_s": 0.002,
+        "html_kb": 1
+      },
+      {
+        "nodes": 100,
+        "render_s": 0.027,
+        "html_kb": 10
+      },
+      {
+        "nodes": 1000,
+        "render_s": 2.469,
+        "html_kb": 107
+      },
+      {
+        "nodes": 10000,
+        "render_s": 122.545,
+        "html_kb": 1102
+      }
+    ],
+    "note": "O(nodes x records) per node \u2014 linear-in-n^2 at worst; usability ceiling where render_s > 1s interactive threshold"
+  },
+  "L5_concurrency": {
+    "errors": [],
+    "final_value": 2222.0,
+    "history_entries": 2,
+    "note": "last-writer-wins; both edits landed in history; atomic rename prevents torn file",
+    "consistent": true
+  },
+  "L7_coverage_honesty": {
+    "coverage_shown": true,
+    "unresolved_shown": true,
+    "pass": true
+  }
+}

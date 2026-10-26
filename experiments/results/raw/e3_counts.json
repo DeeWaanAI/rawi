@@ -1,0 +1,19 @@
+{
+  "tokenizer": "Qwen/Qwen2.5-7B-Instruct tokenizer.json",
+  "method": "offline deterministic count; REGEN output estimated by a faithful HTML stand-in, disclosed as estimate; no live API calls",
+  "interactions_k": 100,
+  "dvr": {
+    "T_in_once": 3084,
+    "T_spec_once": 1648,
+    "T_total": 4732,
+    "T_per_interaction": 0
+  },
+  "regen": {
+    "T_in_per": 3084,
+    "T_out_per": 3309,
+    "T_per_interaction": 6393,
+    "T_total": 639300
+  },
+  "ratio": 135.1,
+  "breakeven_interactions": 0.74
+}

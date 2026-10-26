@@ -1,0 +1,21 @@
+{
+  "request": "memory_inspection",
+  "dvr_spec": {
+    "spec": "dvr/1.0",
+    "id": "v_mem",
+    "kind": "tree",
+    "nodes": [
+      {
+        "id": "root",
+        "role": "structure",
+        "text": "sessions"
+      },
+      {
+        "id": "s1",
+        "role": "value",
+        "binding_ref": "b_tot_q3",
+        "path": "root"
+      }
+    ]
+  }
+}

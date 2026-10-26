@@ -1,0 +1,505 @@
+{
+  "seed": 20261019,
+  "edits": [
+    {
+      "seq": 0,
+      "record_id": "r_038",
+      "value": 329.51
+    },
+    {
+      "seq": 1,
+      "record_id": "r_047",
+      "value": 953.57
+    },
+    {
+      "seq": 2,
+      "record_id": "r_014",
+      "value": 475.37
+    },
+    {
+      "seq": 3,
+      "record_id": "r_019",
+      "value": 274.14
+    },
+    {
+      "seq": 4,
+      "record_id": "r_002",
+      "value": 355.25
+    },
+    {
+      "seq": 5,
+      "record_id": "r_001",
+      "value": 728.55
+    },
+    {
+      "seq": 6,
+      "record_id": "r_019",
+      "value": 445.8
+    },
+    {
+      "seq": 7,
+      "record_id": "r_062",
+      "value": 278.63
+    },
+    {
+      "seq": 8,
+      "record_id": "r_021",
+      "value": 86.39
+    },
+    {
+      "seq": 9,
+      "record_id": "r_025",
+      "value": 646.52
+    },
+    {
+      "seq": 10,
+      "record_id": "r_015",
+      "value": 457.13
+    },
+    {
+      "seq": 11,
+      "record_id": "r_012",
+      "value": 409.18
+    },
+    {
+      "seq": 12,
+      "record_id": "r_055",
+      "value": 345.92
+    },
+    {
+      "seq": 13,
+      "record_id": "r_055",
+      "value": 558.56
+    },
+    {
+      "seq": 14,
+      "record_id": "r_043",
+      "value": 911.08
+    },
+    {
+      "seq": 15,
+      "record_id": "r_018",
+      "value": 816.71
+    },
+    {
+      "seq": 16,
+      "record_id": "r_037",
+      "value": 106.97
+    },
+    {
+      "seq": 17,
+      "record_id": "r_050",
+      "value": 374.07
+    },
+    {
+      "seq": 18,
+      "record_id": "r_003",
+      "value": 935.53
+    },
+    {
+      "seq": 19,
+      "record_id": "r_025",
+      "value": 10.0
+    },
+    {
+      "seq": 20,
+      "record_id": "r_046",
+      "value": 360.69
+    },
+    {
+      "seq": 21,
+      "record_id": "r_060",
+      "value": 333.53
+    },
+    {
+      "seq": 22,
+      "record_id": "r_038",
+      "value": 703.66
+    },
+    {
+      "seq": 23,
+      "record_id": "r_035",
+      "value": 310.52
+    },
+    {
+      "seq": 24,
+      "record_id": "r_017",
+      "value": 612.14
+    },
+    {
+      "seq": 25,
+      "record_id": "r_043",
+      "value": 704.04
+    },
+    {
+      "seq": 26,
+      "record_id": "r_032",
+      "value": 961.47
+    },
+    {
+      "seq": 27,
+      "record_id": "r_005",
+      "value": 244.95
+    },
+    {
+      "seq": 28,
+      "record_id": "r_014",
+      "value": 382.7
+    },
+    {
+      "seq": 29,
+      "record_id": "r_056",
+      "value": 355.29
+    },
+    {
+      "seq": 30,
+      "record_id": "r_038",
+      "value": 937.21
+    },
+    {
+      "seq": 31,
+      "record_id": "r_003",
+      "value": 594.76
+    },
+    {
+      "seq": 32,
+      "record_id": "r_046",
+      "value": 878.6
+    },
+    {
+      "seq": 33,
+      "record_id": "r_016",
+      "value": 393.7
+    },
+    {
+      "seq": 34,
+      "record_id": "r_047",
+      "value": 701.61
+    },
+    {
+      "seq": 35,
+      "record_id": "r_007",
+      "value": 323.77
+    },
+    {
+      "seq": 36,
+      "record_id": "r_034",
+      "value": 410.76
+    },
+    {
+      "seq": 37,
+      "record_id": "r_011",
+      "value": 808.3
+    },
+    {
+      "seq": 38,
+      "record_id": "r_038",
+      "value": 577.42
+    },
+    {
+      "seq": 39,
+      "record_id": "r_057",
+      "value": 277.25
+    },
+    {
+      "seq": 40,
+      "record_id": "r_057",
+      "value": 74.28
+    },
+    {
+      "seq": 41,
+      "record_id": "r_033",
+      "value": 306.58
+    },
+    {
+      "seq": 42,
+      "record_id": "r_061",
+      "value": 343.17
+    },
+    {
+      "seq": 43,
+      "record_id": "r_057",
+      "value": 107.02
+    },
+    {
+      "seq": 44,
+      "record_id": "r_041",
+      "value": 170.33
+    },
+    {
+      "seq": 45,
+      "record_id": "r_046",
+      "value": 843.7
+    },
+    {
+      "seq": 46,
+      "record_id": "r_037",
+      "value": 334.89
+    },
+    {
+      "seq": 47,
+      "record_id": "r_017",
+      "value": 740.87
+    },
+    {
+      "seq": 48,
+      "record_id": "r_025",
+      "value": 260.38
+    },
+    {
+      "seq": 49,
+      "record_id": "r_048",
+      "value": 57.47
+    },
+    {
+      "seq": 50,
+      "record_id": "r_003",
+      "value": 565.73
+    },
+    {
+      "seq": 51,
+      "record_id": "r_055",
+      "value": 324.56
+    },
+    {
+      "seq": 52,
+      "record_id": "r_036",
+      "value": 705.95
+    },
+    {
+      "seq": 53,
+      "record_id": "r_010",
+      "value": 709.51
+    },
+    {
+      "seq": 54,
+      "record_id": "r_047",
+      "value": 526.28
+    },
+    {
+      "seq": 55,
+      "record_id": "r_028",
+      "value": 500.96
+    },
+    {
+      "seq": 56,
+      "record_id": "r_030",
+      "value": 940.06
+    },
+    {
+      "seq": 57,
+      "record_id": "r_037",
+      "value": 918.6
+    },
+    {
+      "seq": 58,
+      "record_id": "r_016",
+      "value": 361.26
+    },
+    {
+      "seq": 59,
+      "record_id": "r_005",
+      "value": 32.82
+    },
+    {
+      "seq": 60,
+      "record_id": "r_010",
+      "value": 128.0
+    },
+    {
+      "seq": 61,
+      "record_id": "r_053",
+      "value": 312.7
+    },
+    {
+      "seq": 62,
+      "record_id": "r_051",
+      "value": 956.14
+    },
+    {
+      "seq": 63,
+      "record_id": "r_015",
+      "value": 164.03
+    },
+    {
+      "seq": 64,
+      "record_id": "r_063",
+      "value": 218.0
+    },
+    {
+      "seq": 65,
+      "record_id": "r_053",
+      "value": 624.96
+    },
+    {
+      "seq": 66,
+      "record_id": "r_022",
+      "value": 719.1
+    },
+    {
+      "seq": 67,
+      "record_id": "r_012",
+      "value": 196.64
+    },
+    {
+      "seq": 68,
+      "record_id": "r_030",
+      "value": 805.1
+    },
+    {
+      "seq": 69,
+      "record_id": "r_054",
+      "value": 27.59
+    },
+    {
+      "seq": 70,
+      "record_id": "r_031",
+      "value": 109.7
+    },
+    {
+      "seq": 71,
+      "record_id": "r_052",
+      "value": 186.52
+    },
+    {
+      "seq": 72,
+      "record_id": "r_042",
+      "value": 808.67
+    },
+    {
+      "seq": 73,
+      "record_id": "r_019",
+      "value": 753.7
+    },
+    {
+      "seq": 74,
+      "record_id": "r_002",
+      "value": 354.69
+    },
+    {
+      "seq": 75,
+      "record_id": "r_040",
+      "value": 130.75
+    },
+    {
+      "seq": 76,
+      "record_id": "r_055",
+      "value": 901.66
+    },
+    {
+      "seq": 77,
+      "record_id": "r_002",
+      "value": 120.59
+    },
+    {
+      "seq": 78,
+      "record_id": "r_031",
+      "value": 669.92
+    },
+    {
+      "seq": 79,
+      "record_id": "r_050",
+      "value": 862.67
+    },
+    {
+      "seq": 80,
+      "record_id": "r_010",
+      "value": 70.05
+    },
+    {
+      "seq": 81,
+      "record_id": "r_059",
+      "value": 487.14
+    },
+    {
+      "seq": 82,
+      "record_id": "r_027",
+      "value": 608.6
+    },
+    {
+      "seq": 83,
+      "record_id": "r_022",
+      "value": 858.38
+    },
+    {
+      "seq": 84,
+      "record_id": "r_036",
+      "value": 955.35
+    },
+    {
+      "seq": 85,
+      "record_id": "r_018",
+      "value": 908.93
+    },
+    {
+      "seq": 86,
+      "record_id": "r_011",
+      "value": 445.41
+    },
+    {
+      "seq": 87,
+      "record_id": "r_024",
+      "value": 181.66
+    },
+    {
+      "seq": 88,
+      "record_id": "r_054",
+      "value": 190.87
+    },
+    {
+      "seq": 89,
+      "record_id": "r_036",
+      "value": 702.59
+    },
+    {
+      "seq": 90,
+      "record_id": "r_060",
+      "value": 353.77
+    },
+    {
+      "seq": 91,
+      "record_id": "r_059",
+      "value": 951.48
+    },
+    {
+      "seq": 92,
+      "record_id": "r_007",
+      "value": 112.12
+    },
+    {
+      "seq": 93,
+      "record_id": "r_002",
+      "value": 606.79
+    },
+    {
+      "seq": 94,
+      "record_id": "r_016",
+      "value": 204.31
+    },
+    {
+      "seq": 95,
+      "record_id": "r_022",
+      "value": 255.58
+    },
+    {
+      "seq": 96,
+      "record_id": "r_015",
+      "value": 526.96
+    },
+    {
+      "seq": 97,
+      "record_id": "r_051",
+      "value": 893.98
+    },
+    {
+      "seq": 98,
+      "record_id": "r_062",
+      "value": 989.67
+    },
+    {
+      "seq": 99,
+      "record_id": "r_042",
+      "value": 891.99
+    }
+  ]
+}

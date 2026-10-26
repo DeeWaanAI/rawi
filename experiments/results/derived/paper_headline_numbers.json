@@ -1,0 +1,103 @@
+{
+  "frozen_inputs": [
+    "corpus/manifest.json",
+    "results/raw/e1_trace.jsonl",
+    "results/raw/e2_edits.jsonl",
+    "results/raw/e2_meta.json",
+    "results/raw/e3_counts.json",
+    "litreview/raw/*.json",
+    "view-renderer/limits_results.json",
+    "view-renderer/dvr/*.py"
+  ],
+  "corpus_hashes": {
+    "datasets/expenses/schema.json": "235d89a6c0d3b360a033c3405de74c454232ebadf37b4d3ed171e7625d864afa",
+    "datasets/expenses/data.jsonl": "1cb5f2ad614b683e2065ddcd482ea6da7515a6b646cf33e9edb1a4725c197341",
+    "bindings.jsonl": "8425a7a11944bf195e03c37ade08bc4c2ddcb34c13d8faaa35a984343f5d2542",
+    "views/v_exp.view.json": "53cae1a6adcaf82e13cfe116d5f10e9f26c62db30e78cd144e18ba2b55c32437",
+    "edit_script.json": "c24830cbfe8eb877e3d47d0b3ce3345f90020b3b9c9dd6c11d51af6c98d97245"
+  },
+  "corpus_composition": {
+    "records": 63,
+    "bindings": 6,
+    "scripted_edits": 100,
+    "period_totals": 3,
+    "editable_cells": 1,
+    "claims": 2
+  },
+  "E1_durability": {
+    "c6_closed": true,
+    "edit": {
+      "record": "r_051",
+      "prior": 820.89,
+      "new": 1320.89
+    },
+    "post_recheck_claim_state": "FLAG",
+    "post_recheck_detail": "recompute shows +5.2%, claim says +0.4% (Q2=10308.84, Q3=10846.71)"
+  },
+  "E2_roundtrip": {
+    "edits": 100,
+    "reproved": 100,
+    "rate": 1.0,
+    "wall_s": 1.04
+  },
+  "E3_cost": {
+    "interactions": 100,
+    "dvr_tokens_total": 4732,
+    "regen_tokens_total": 639300,
+    "ratio": 135.1,
+    "breakeven_interactions": 0.74
+  },
+  "review_flow": {
+    "identified": 797,
+    "deduplicated": 749,
+    "screened": 110,
+    "included": 42
+  },
+  "limits": {
+    "scale_curve": {
+      "10": 0.002,
+      "100": 0.027,
+      "1000": 2.469,
+      "10000": 122.545
+    },
+    "L3_shared_error_caught": false,
+    "L5_concurrency_consistent": true,
+    "L7_coverage_honest": true
+  },
+  "prototype_loc": {
+    "non_comment": 279,
+    "total_lines": 330
+  },
+  "L6_expressiveness": {
+    "requests": 6,
+    "expressible": 4,
+    "rate": 0.6667,
+    "per_request": {
+      "prompt_answer": {
+        "expressible": true,
+        "html_bytes": 414
+      },
+      "data_table": {
+        "expressible": true,
+        "html_bytes": 256
+      },
+      "claim_with_evidence": {
+        "expressible": true,
+        "html_bytes": 340
+      },
+      "action_confirmation": {
+        "expressible": false,
+        "gap": "requires an action element (approve/reject buttons emitting effects, not data edits) \u2014 Layer 3 territory; dvr/1.0 renders data, it does not act"
+      },
+      "memory_inspection": {
+        "expressible": true,
+        "html_bytes": 310
+      },
+      "connection_manager": {
+        "expressible": false,
+        "gap": "requires live status indicators and controls (connect, retry) bound to service state, not to dataset bindings"
+      }
+    },
+    "note": "gaps are Layer-3 action elements and live service controls; both are out of dvr/1.0 scope by design (spec \u00a78 non-goals)"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "spec": "dvr/1.0",
+  "id": "v_exp",
+  "kind": "table",
+  "title": {
+    "text": "2026 expenses"
+  },
+  "columns": [
+    {
+      "id": "col:amount",
+      "label": "Amount",
+      "source_field": "amount"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "cell:total_q1",
+      "role": "value",
+      "binding_ref": "b_tot_q1",
+      "column": "col:amount"
+    },
+    {
+      "id": "cell:total_q2",
+      "role": "value",
+      "binding_ref": "b_tot_q2",
+      "column": "col:amount"
+    },
+    {
+      "id": "cell:total_q3",
+      "role": "value",
+      "binding_ref": "b_tot_q3",
+      "column": "col:amount"
+    },
+    {
+      "id": "cell:r_042",
+      "role": "value",
+      "binding_ref": "b_cell_r42",
+      "column": "col:amount",
+      "row_key": "r_051",
+      "editable": true
+    },
+    {
+      "id": "claim:trend",
+      "role": "claim",
+      "binding_ref": "b_trend"
+    },
+    {
+      "id": "claim:count",
+      "role": "claim",
+      "binding_ref": "b_count"
+    },
+    {
+      "id": "lbl",
+      "role": "label",
+      "text": "Every figure is bound to frozen data."
+    }
+  ]
+}
